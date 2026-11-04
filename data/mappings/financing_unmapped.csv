@@ -1,0 +1,2397 @@
+raw_name,kind,rows
+Bunge,group,5568
+Archer Daniels Midland,group,4086
+Cargill,group,2715
+ZTE,group,1873
+Itochu,group,1476
+COFCO,group,1432
+Louis Dreyfus Company,group,1416
+Charoen Pokphand Group,group,1387
+POSCO,group,1317
+Olam Group,group,1090
+PTT Group,group,1028
+BlackRock,bank,849
+Samsung,group,790
+Genting Group,group,659
+Bolloré,group,517
+HSBC,bank,481
+Vanguard,bank,478
+Crédit Agricole,bank,459
+Mitsubishi UFJ Financial,bank,457
+JPMorgan Chase,bank,453
+R E A Holdings,group,434
+Deutsche Bank,bank,433
+LX International,group,433
+UBS,bank,413
+SD Guthrie,group,401
+SMBC Group,bank,393
+Mizuho Financial,bank,386
+State Street,bank,383
+BNP Paribas,bank,360
+Australian Retirement Trust,bank,360
+Batu Kawan Group,group,346
+HostPlus,bank,345
+IOI Group,group,331
+Oversea-Chinese Banking Corporation,bank,325
+DBS,bank,322
+Citigroup,bank,308
+Dimensional Fund Advisors,bank,292
+Bank of China,bank,287
+Rabobank,bank,262
+Standard Chartered,bank,258
+CIMB Group,bank,237
+Sungai Budi Group,group,231
+Bank of America,bank,226
+Industrial and Commercial Bank of China,bank,223
+Groupe BPCE,bank,223
+Malayan Banking,bank,222
+ANZ,bank,221
+Aware Super,bank,221
+QL Resources,group,214
+Franklin Resources,bank,212
+ING Group,bank,205
+aberdeen,bank,194
+Goldman Sachs,bank,192
+CITIC,bank,189
+Invesco,bank,183
+AustralianSuper,bank,182
+Agricultural Bank of China,bank,180
+China Merchants Bank,bank,180
+Northern Trust,bank,180
+United Overseas Bank,bank,179
+Barclays,bank,174
+Morgan Stanley,bank,173
+Société Générale,bank,159
+Super SA,bank,159
+Power Corporation of Canada,bank,158
+Krung Thai Bank,bank,157
+China Construction Bank,bank,156
+Bank of New York Mellon,bank,155
+TA Associates,bank,151
+Intesa Sanpaolo,bank,147
+Fidelity International,bank,142
+Mirae Asset Financial Group,bank,142
+MP Evans,group,141
+Kasikornbank,bank,133
+United Plantations,group,133
+HESTA,bank,131
+Bangkok Bank,bank,126
+Banco Bilbao Vizcaya Argentaria (BBVA),bank,125
+Commerzbank,bank,120
+ABN Amro,bank,118
+RHB Banking,bank,116
+Daesang Corporation,group,116
+Scotiabank,bank,114
+Legal & General,bank,113
+KB Financial Group,bank,113
+Nomura,bank,112
+Siam Commercial Bank,bank,112
+Prudential Plc,bank,111
+Cbus Super,bank,111
+Schroders,bank,107
+Westpac,bank,107
+Vision Super,bank,106
+Charles Schwab,bank,104
+KBC Group,bank,104
+BMO Financial Group,bank,104
+Tanjung Lingga Group,group,104
+Liberty Mutual Insurance,bank,103
+Wells Fargo,bank,101
+Pictet,bank,97
+Commonwealth Bank of Australia,bank,96
+United Services Automobile Association,bank,95
+Capital Group,bank,93
+Bank of Communications,bank,93
+National Australia Bank,bank,92
+Allianz,bank,90
+TSH Resources,group,90
+DZ Bank,bank,88
+Auto-Owners Insurance,bank,87
+UniCredit,bank,87
+Zürcher Kantonalbank,bank,87
+Ping An Insurance Group,bank,87
+Wellington Management,bank,85
+American Century Investments,bank,84
+Anglo-Eastern Group,group,84
+New York Life Insurance,bank,83
+Royal Bank of Canada,bank,82
+Provident Agro Group,group,82
+Equip Super,bank,81
+Sumitomo Mitsui Trust,bank,81
+Felda Group,group,81
+Bank of Ningbo,bank,80
+CI Financial,bank,79
+GESB Superannuation,bank,79
+Florida State Board of Administration (FSBA),bank,77
+US Bancorp,bank,77
+Principal Financial Group,bank,76
+First Abu Dhabi Bank,bank,76
+Santander,bank,76
+MassMutual Life Insurance,bank,75
+China Minsheng Banking,bank,72
+Shenwan Hongyuan Group,bank,72
+SEI,bank,71
+Donghai Securities,bank,71
+AmBank Group,bank,70
+NongHyup Financial,bank,69
+First Capital Securities,bank,68
+Sipef,group,68
+Future Fund,bank,67
+Old Republic International,bank,67
+California Public Employees' Retirement System (CalPERS),bank,66
+Los Angeles County Employees Retirement Association,bank,64
+Geode Capital Holdings,bank,63
+PNC Financial Services,bank,63
+Van Eck Associates Corporation,bank,63
+China Everbright Group,bank,63
+CSC Financial,bank,63
+American International Group (AIG),bank,62
+Shanghai Pudong Development Bank,bank,62
+CIBC,bank,61
+Toronto-Dominion Bank,bank,60
+Indonesia Eximbank,bank,60
+Amova Asset Management,bank,58
+Lombard Odier,bank,58
+Pension Fund Association for Local Government Officials,bank,58
+Shinhan Financial Group,bank,58
+Crédit Mutuel,bank,56
+Centene Corporation,bank,56
+Maryland State Retirement & Pension System,bank,56
+NatWest,bank,56
+Taiwan Financial Holding,bank,56
+Massachusetts Pension Reserves Investments Management,bank,55
+Daiwa Securities,bank,54
+Industrial Bank Company,bank,54
+Government Pension Investment Fund (GPIF),bank,52
+Korea Investment Holdings,bank,52
+Carson Cumberbatch Group,group,51
+Desjardins Group,bank,50
+Kiatnakin Phatra Financial Group,bank,50
+Aviva,bank,48
+UnitedHealth,bank,48
+T. Rowe Price,bank,47
+Sucorinvest Inti Investama,bank,47
+Yuanta Financial,bank,46
+China Zheshang Bank,bank,46
+CTBC Financial Holding,bank,45
+Genworth Financial,bank,45
+Lazard,bank,45
+Swiss Life,bank,45
+Hua Nan Financial,bank,45
+Industrial Securities,bank,45
+TPS Group,group,45
+Skandinaviska Enskilda Banken,bank,44
+"Connor, Clark & Lunn Financial Group",bank,44
+UniSuper,bank,44
+BrightSphere Investment Group,bank,43
+Victory Capital,bank,43
+Marsh & McLennan Companies,bank,43
+Mega Financial,bank,42
+China International Capital Corporation,bank,42
+Boon Siew Group,group,42
+Farm Credit Services Commercial Finance Group,bank,41
+Nykredit Group,bank,41
+Resona Holdings,bank,41
+State Farm,bank,41
+Royal London Group,bank,40
+Chubb,bank,40
+Orix Corporation,bank,40
+First Financial Holding,bank,40
+China Development Bank,bank,40
+Gozco Group,group,40
+Aegon,bank,39
+Assenagon,bank,39
+California State Teachers' Retirement System (CalSTRS),bank,39
+Manulife Financial,bank,39
+Nationwide Mutual Insurance,bank,39
+Prudential Financial (US),bank,39
+Bank of East Asia,bank,39
+Bank of Beijing,bank,39
+"Fonds de Compensation de la Sécurité Sociale, SICAV-FIS (FDC)",bank,38
+Nippon Life Insurance,bank,38
+Orient Securities,bank,38
+Indo Premier Securities,bank,38
+Janus Henderson,bank,37
+GMO,bank,37
+Lincoln National Corporation,bank,37
+Lloyds Banking Group,bank,37
+Norinchukin Bank,bank,37
+Regions Financial,bank,37
+KDB Financial Group,bank,37
+Aetna,bank,36
+Caisse de Dépôt et Placement du Québec (CDPQ),bank,36
+Deka Group,bank,36
+New York State Teachers' Retirement System (NYSTRS),bank,36
+Minnesota State Board of Investment (MSBI),bank,35
+Samsung Life Insurance,bank,35
+Affin Group,bank,35
+Johor Group,group,35
+Affiliated Managers Group,bank,34
+Swiss Re,bank,34
+Thrivent Investment Management,bank,34
+Humana,bank,34
+Government Savings Bank,bank,34
+Banco Mediolanum,bank,33
+BPER Banca,bank,33
+First Trust Advisors,bank,33
+New York State Common Retirement Fund,bank,33
+Svenska Handelsbanken,bank,33
+AXA,bank,32
+Neuberger Berman,bank,32
+Sanlam,bank,32
+State Super,bank,32
+Causeway Capital Holdings,bank,32
+Baird,bank,31
+Commonwealth Annuity and Life Insurance,bank,31
+Truist Financial,bank,31
+Zurich Insurance,bank,31
+MetLife,bank,30
+Rajawali Nusantara Indonesia,group,30
+Ameritas Mutual,bank,29
+China Southern Asset Management (CSAM),bank,29
+Erste Group,bank,29
+Fubon Financial,bank,29
+TMBThanachart Bank,bank,29
+Allspring Global Investments,bank,28
+Bradesco,bank,28
+Focus Financial Partners,bank,28
+Travelers,bank,28
+Asia Plus Group,bank,28
+Toba Bara Sejahtra Group,group,28
+M&G,bank,27
+DNB,bank,27
+Public Bank,bank,27
+Emergency Services Superannuation Board,bank,27
+Taiwan Cooperative Financial,bank,27
+Asahi Mutual Life Insurance,bank,26
+Länsförsäkringar,bank,26
+Macquarie Group,bank,26
+National Bank of Canada,bank,26
+National Life Group,bank,26
+Storebrand,bank,26
+Tokio Marine,bank,26
+Chang Hwa Commercial Bank,bank,26
+E.SUN Financial,bank,26
+Pacific Century Group,bank,25
+Permata Hijau,group,25
+TH Group,group,25
+United International Enterprises,group,25
+Employers Reassurance Corporation,bank,24
+K&N Kenanga Holdings,bank,24
+Bank of Philippine Islands,bank,24
+Samsung Securities,bank,24
+West Yorkshire Pension Fund,bank,24
+China Guangfa Bank,bank,24
+IJM Group,group,24
+Tianjin Julong,group,24
+American Equity,bank,23
+AQR Capital Management,bank,23
+Danske Bank,bank,23
+Equitable Holdings,bank,23
+GRAWE Group,bank,23
+Itaú Unibanco,bank,23
+LSV Asset Management,bank,23
+Sentry Insurance,bank,23
+Sun Life Financial,bank,23
+Development Bank of Japan,bank,23
+Fidelity Investments,bank,23
+Pacer Advisors,bank,22
+Raiffeisen Banking Group,bank,22
+Premia Partners,bank,22
+Bank of Changsha,bank,22
+Bank of Hangzhou,bank,22
+LGT Group,bank,22
+Ameriprise Financial,bank,21
+Vontobel,bank,21
+Employers Holdings,bank,21
+Government Pension Fund Global (GPFG),bank,21
+Los Angeles Capital Management,bank,21
+M&T Bank,bank,21
+Velliv,bank,21
+Banca Monte dei Paschi di Siena,bank,21
+Bessemer Group,bank,20
+CNO Financial Group,bank,20
+Dentegra Group,bank,20
+Nordea,bank,20
+Pacific Mutual,bank,20
+RGA,bank,20
+Sumitomo Life,bank,20
+Taishin Financial Group,bank,20
+Aozora Bank,bank,20
+Investment Corporation of Dubai,bank,20
+China Bohai Bank,bank,20
+TDM,group,20
+WCM Investment Management,bank,19
+ABN AMRO,bank,19
+Assurant,bank,19
+Daiichi Life Group,bank,19
+Erie Insurance Group,bank,19
+J. Safra Group,bank,19
+Man Group,bank,19
+Sjunde AP-fonden (AP-7),bank,19
+State of Wisconsin Investment Board,bank,19
+AIA Group,bank,19
+KfW,bank,19
+Metropolitan Bank & Trust,bank,19
+Bank of Shanghai,bank,19
+Carne,bank,19
+Shinkin Central Bank,bank,19
+CGS-CIMB Securities International,bank,19
+American National Group,bank,18
+Azimut,bank,18
+Health Care Service Corporation (HCSC Group),bank,18
+Inspire Impact Group,bank,18
+Kiwoom Securities,bank,18
+Pensioenfonds Detailhandel,bank,18
+Raymond James Financial,bank,18
+Bondbloxx Investment Management,bank,18
+Hana Financial,bank,18
+Bank of Baroda,bank,18
+Gamco Investors,bank,17
+Montagu Private Equity,bank,17
+Mutual of Ohama,bank,17
+MMI Holdings,bank,17
+Cathay Financial,bank,17
+Northeast Securities,bank,17
+American United Mutual Insurance,bank,16
+Apollo Global Management,bank,16
+Auto Club Enterprises Insurance Group,bank,16
+Bankinter,bank,16
+Loop Capital,bank,16
+Meiji Yasuda Life Insurance,bank,16
+Northwestern Mutual,bank,16
+Oregon Public Employees Retirement System,bank,16
+Sammons Enterprises,bank,16
+TCW Group,bank,16
+Vident Advisory,bank,16
+Eq8 Capial,bank,16
+Cardano Group,bank,16
+Banco do Brasil,bank,16
+China Investment Corporation,bank,16
+TISCO Financial Group,bank,16
+Guosen Securities,bank,16
+Old Mutual,bank,16
+Julius Bär,bank,15
+Aflac,bank,15
+Algemeen Burgerlijk Pensioenfonds (ABP),bank,15
+Colorado Public Employees' Retirement Association (Colorado PERA),bank,15
+COUNTRY Financial,bank,15
+Doubleline Capital,bank,15
+Guardian Life Insurance Company of America,bank,15
+Indiana Farm Bureau,bank,15
+Jupiter Fund Management,bank,15
+Kernel,bank,15
+Swedbank,bank,15
+Unum Group,bank,15
+ATRAM,bank,15
+Baillie Gifford,bank,15
+Permodalan Nasional Berhad,bank,15
+Skerryvore Asset Management,bank,15
+Somerset Capital Management,bank,15
+Taiwan Business Bank,bank,15
+Bank of Dalian,bank,15
+Postal Savings Bank of China,bank,15
+Research Affiliates,bank,15
+Fifth Third Bancorp,bank,14
+Forethought Life Insurance Company,bank,14
+National Pension Service,bank,14
+Penn Mutual,bank,14
+Public Employee Retirement System of Idaho (PERSI),bank,14
+Arab Banking Corporation (Bank ABC),bank,14
+Sompo Holdings,bank,14
+Landesbank Hessen-Thüringen,bank,14
+QNB Group,bank,14
+China Eximbank,bank,14
+Hong Leong Group,bank,14
+Trimegah Securities,bank,14
+Bank Sinar Mas,bank,14
+American Financial Group,bank,13
+Andbank,bank,13
+Anima,bank,13
+Bantleon,bank,13
+Brown Brothers Harriman,bank,13
+Federated Hermes,bank,13
+Hanover Insurance,bank,13
+Horizon Investments,bank,13
+Huatai Securities,bank,13
+Liechtensteinische Landesbank,bank,13
+Pensioenfonds Metaal en Techniek (PMT),bank,13
+Quaestio Capital Management,bank,13
+Sygnia,bank,13
+Temasek,bank,13
+Sanarus Investment Management,bank,13
+Chiba Bank,bank,13
+KKR Group,bank,13
+Hua Xia Bank,bank,13
+Bank of Jiujiang,bank,13
+Guotai Junan Securities,bank,13
+Haitong Securities,bank,13
+PhillipCapital,bank,13
+Value Partners Group,bank,13
+Tokai Tokyo Financial Holdings,bank,13
+Academy Securities,bank,12
+AGF Management,bank,12
+Cuna Mutual Group,bank,12
+Everest Re Group,bank,12
+Farm Bureau Insurance,bank,12
+iA Financial Group,bank,12
+Kestra Financial,bank,12
+Minnesota Mutual Companies,bank,12
+MS&AD Insurance Group,bank,12
+Stifel Financial,bank,12
+Tidal Investments,bank,12
+Wilton Re,bank,12
+Banque Cantonale Vaudoise,bank,12
+KGI Financial,bank,12
+Value Square,bank,11
+AAA Northern California Nevada & Utah,bank,11
+Encova Insurance,bank,11
+Guardian Capital Group,bank,11
+Hightower,bank,11
+National-Bank Essen,bank,11
+Pennsylvania State Employees' Retirement System,bank,11
+Pensioenfonds van de Metalektro (PME),bank,11
+Siemens Financial Services,bank,11
+Susquehanna International Group (SIG),bank,11
+KWAP Retirement Fund,bank,11
+Malaysian Hajj Pilgrims Fund,bank,11
+Arrowstreet Capital,bank,11
+OP Financial Group,bank,11
+Kopernik Global Investors,bank,11
+The Investment Fund for Foundations,bank,11
+77 Bank,bank,11
+E Fund Management,bank,11
+Niche Asset Management Limited,bank,11
+StanCorp Financial,bank,11
+Evergrowing Bank,bank,11
+Maxim Global,group,11
+United Malacca Group,group,11
+Assicurazioni Generali,bank,10
+Automobile Club Michigan Pool,bank,10
+Caisse des Dépôts et Consignations,bank,10
+FIAM Holdings,bank,10
+Globe Life Liberty National Division,bank,10
+GuideWell,bank,10
+Gulf International Bank,bank,10
+Hub International,bank,10
+Laegernes Pensionskasse,bank,10
+Lifetime Healthcare Companies,bank,10
+Meeder Investment Management,bank,10
+Nuclear Electric Insurance,bank,10
+Oddo BHF,bank,10
+PensionDanmark,bank,10
+RhumbLine Advisers,bank,10
+Rockefeller & Co,bank,10
+Vantage Bank,bank,10
+Western & Southern Financial,bank,10
+Pelaburan Mara,bank,10
+Aema Groupe,bank,10
+CareFirst,bank,10
+Concordia Financial,bank,10
+FM Global,bank,10
+Mebuki Financial Grup,bank,10
+SinoPac Holdings,bank,10
+Woori Asset Management,bank,10
+Integrated Financial Group,bank,10
+Hanwha Asset Management,bank,10
+Border to Coast Pensions Partnership,bank,10
+Okasan Securities Group,bank,10
+LocalTapiola Group,bank,10
+State Bank of India,bank,10
+Industrial Bank of Korea,bank,10
+Bank of Jiangsu,bank,10
+ALPS Advisors,bank,9
+Caitong Securities,bank,9
+Da Cheng International Asset Management,bank,9
+Directors Investment Group,bank,9
+Equinor Asset Management,bank,9
+Farmers Fire Insurance,bank,9
+Fjärde AP-Fonden (AP-4),bank,9
+Fuh Hwa Securities Investment Trust,bank,9
+GAMMA Investing,bank,9
+Globe Life,bank,9
+HDI V.a.G.,bank,9
+Kemper,bank,9
+Pensioenfonds Vervoer,bank,9
+SBI Holdings,bank,9
+TIAA,bank,9
+Voya Financial,bank,9
+Zacks Investment Management,bank,9
+Eastprings Investments,bank,9
+Eurinvest,bank,9
+Groupama,bank,9
+Gunma Bank,bank,9
+Iyo Bank,bank,9
+Jackson Financial,bank,9
+Muzinich & Co,bank,9
+Ashmore Group,bank,9
+China Cinda,bank,9
+Swiss Rock Asset Management,bank,9
+Midas International Asset Management,bank,9
+Affin,bank,9
+Quilter,bank,9
+Prusik Investment Management,bank,9
+Pensioenfonds voor de Bouw (bpfBouw),bank,9
+Danareksa Sekuritas,bank,9
+Lippo Bank,bank,9
+Jhonlin Group,group,9
+Ackermans & van Haaren,bank,8
+Mirabaud,bank,8
+Allstate,bank,8
+Blackstone,bank,8
+British Columbia Investment Management,bank,8
+Builders Insurance,bank,8
+DJE Kapital,bank,8
+Harvest Fund Management,bank,8
+HighMark,bank,8
+Molina Healthcare,bank,8
+Mutual of Omaha,bank,8
+Osaic Wealth,bank,8
+ProAssurance,bank,8
+SBI Okasan Asset Management,bank,8
+Scor Group,bank,8
+Skandia,bank,8
+Southern Farm Bureau Casualty,bank,8
+State Universities Retirement System of the State of Illinois,bank,8
+Sydbank,bank,8
+Two Sigma Investments,bank,8
+Walleye Capital,bank,8
+Employees Provident Fund,bank,8
+TA Enterprise,bank,8
+ICMA Retirement,bank,8
+1251 Capital,bank,8
+Universal Insurance,bank,8
+Federated Mutual Insurance,bank,8
+Utica Mutual Insurance,bank,8
+Cambria Investment Management,bank,8
+MFC Asset Management,bank,8
+Shanghai Commercial & Savings Bank,bank,8
+Quanzhou City Commercial Bank,bank,8
+Brandes Investment Partners,bank,8
+Ninety One,bank,8
+Matthews International Capital Management,bank,8
+Seligson & Co Fund Management,bank,8
+ICICI Bank,bank,8
+Pensioenfonds voor de Woningcorporaties (SPW),bank,8
+Apple Financial Holdings,bank,8
+NPC Resources Group,group,8
+APICIL Group,bank,7
+Basellandschaftliche Kantonalbank,bank,7
+Bethia,bank,7
+Cabrera Capital,bank,7
+Commonwealth Financial Network,bank,7
+EFG International,bank,7
+Ekins Guinness,bank,7
+Empirical Finance,bank,7
+Envestnet,bank,7
+Excelsia Capital Proprietary,bank,7
+Exchange Traded Concepts,bank,7
+First Catholic Slovak Union,bank,7
+FIVV FinanzInformation & VermögensVerwaltung,bank,7
+GAM Holding,bank,7
+Horizon Kinetics,bank,7
+Huntington Bancshares,bank,7
+Incrementum AG,bank,7
+Independent Financial Partners,bank,7
+Lærernes Pension,bank,7
+Larson Financial Group,bank,7
+MAG Mutual Group,bank,7
+Masterinvest,bank,7
+MLP,bank,7
+National Guardian Life Insurance,bank,7
+NewEdge Capital,bank,7
+NYCM Insurance,bank,7
+Öhman,bank,7
+Pensionskassernes Administration (PKA),bank,7
+PFA Group,bank,7
+Praxis Investment Management,bank,7
+Primerica,bank,7
+Universal Investment Co,bank,7
+Yellowfin Asset Management,bank,7
+OLZ,bank,7
+Sunline Wealth Management,bank,7
+Abu Dhabi Investment Council,bank,7
+China Jianyin Investment,bank,7
+Evelyn Partners Investment Management,bank,7
+Fairstone,bank,7
+Finlabo,bank,7
+IST Investmentstiftung,bank,7
+MCIC Vermont,bank,7
+Arab Bank,bank,7
+BayernLB,bank,7
+Cornèr Banca,bank,7
+Essent Group,bank,7
+Kansas City Life Insurance Group,bank,7
+Shelter Insurance,bank,7
+China Development Financial Holding,bank,7
+National Bank of Kuwait,bank,7
+WBS Hünicke,bank,7
+iFast,bank,7
+Seafarer Capital Partners,bank,7
+AKFED,bank,7
+Australian Ethical Investment,bank,7
+J Trust Group,bank,7
+Oregon Investment Council (OIC),bank,6
+Rathbones,bank,6
+Aspida Holdings,bank,6
+Atlas Capital Advisors,bank,6
+Baader Bank,bank,6
+Blue Cross Blue Shield of Massachusetts,bank,6
+Boston Mutual Life Insurance,bank,6
+Cambia Health Solutions,bank,6
+Constellation Insurance Holdings,bank,6
+Edmond de Rothschild,bank,6
+Emperical Finance,bank,6
+Global Systematic Investors,bank,6
+Markel Corporation,bank,6
+Metis Global Partners,bank,6
+National Slovak Society,bank,6
+Security National Group,bank,6
+Stichting Pensioenfonds voor Personeelsdiensten (StiPP),bank,6
+Tower Research Capital,bank,6
+Bank Capital Indonesia,bank,6
+AP Pension,bank,6
+Andra AP-Fonden (AP-2),bank,6
+La Banque Postale,bank,6
+Abanca,bank,6
+California Casualty Management Company,bank,6
+CareSource,bank,6
+European Bank for Reconstruction and Development,bank,6
+First Horizon,bank,6
+Hermes Investment Management,bank,6
+Landesbank Baden-Württemberg (LBBW),bank,6
+Loews Corporation,bank,6
+Medica,bank,6
+Nassau Financial,bank,6
+NCB Financial Group,bank,6
+San-in Godo Bank,bank,6
+T&D Holdings,bank,6
+VP Bank,bank,6
+Physicians Mutual Group,bank,6
+Trustmark Mutual,bank,6
+BDO Unibank,bank,6
+LH Financial Group,bank,6
+Rayliant,bank,6
+Shin Kong Financial Holding,bank,6
+Agricultural Development Bank of China,bank,6
+Bahana Group,bank,6
+Areca Capital,bank,6
+Riverfront Investment Group,bank,6
+Steyn Capital Management (Pty) Ltd,bank,6
+Daishin Securities,bank,6
+Bank Aceh,bank,6
+Bank DKI,bank,6
+China Universal Asset Management,bank,6
+Fullgoal Fund Management,bank,6
+GF Fund Management,bank,6
+HuaAn Fund Management,bank,6
+Huashang Fund Management,bank,6
+Huatai-PineBridge Fund Management,bank,6
+Oldfield Partners,bank,6
+Penghua Fund Management,bank,6
+Southwest Securities,bank,6
+Changjiang Securities,bank,6
+Hargreaves Lansdown,bank,5
+180 Wealth Advisors,bank,5
+55 Institutional Partners,bank,5
+Accurate Wealth Management,bank,5
+Adage Capital Partners,bank,5
+Advisor Partners,bank,5
+Advisory Services Network,bank,5
+AE Wealth Management,bank,5
+Affinity Investment Advisors,bank,5
+Alaska Retirement Management Board,bank,5
+Algert Global,bank,5
+Allworth Financial,bank,5
+AlphaGrep,bank,5
+Alternativ Inc,bank,5
+Amalgamated Financial Corporation,bank,5
+Amova Asset Management Americas,bank,5
+Ampersand Partners,bank,5
+Apricus Wealth,bank,5
+Arax Partners,bank,5
+Aretec Group,bank,5
+Arizona State Retirement System,bank,5
+Arkadios Wealth Advisors,bank,5
+Ascentis Operations,bank,5
+ASR Nederland,bank,5
+Auriga Holding,bank,5
+Ausdal Financial Partners,bank,5
+Avidian Wealth Solutions,bank,5
+AXQ Capital,bank,5
+Ballentine Partners,bank,5
+Balyasny Asset Management,bank,5
+Bank & Trust Co,bank,5
+Basecamp Wealth Advisors,bank,5
+Beacon Pointe,bank,5
+Blue Cross Blue Shield of Michigan,bank,5
+Boothbay Fund Management,bank,5
+"Bradley, Foster & Sargent",bank,5
+Brevan Howard Capital Management,bank,5
+Brooklyn AI,bank,5
+Bruce & Co,bank,5
+BZ Bank,bank,5
+Callan Family Office,bank,5
+Cambridge Investment Group,bank,5
+Capital BlueCross,bank,5
+Capstone Investment Advisors,bank,5
+Captrust Financial,bank,5
+Carson Group,bank,5
+Central Bancompany,bank,5
+Central Bank of Czech Republic,bank,5
+Central Pacific Financial Corporation,bank,5
+Checchi Capital Advisers,bank,5
+Chesapeake Capital,bank,5
+Chevy Chase Trust,bank,5
+Chicago Partners Investment Group,bank,5
+Cidel Bank & Trust,bank,5
+Class VI Partners,bank,5
+Cohen & Steers,bank,5
+Coldstream Holdings,bank,5
+Commerce Bank and Trust,bank,5
+Concurrence Holdings,bank,5
+Corecap Advisors,bank,5
+Creative Financial Designs,bank,5
+Creative Planning,bank,5
+Cresset Capital,bank,5
+Csenge Advisory Group,bank,5
+CX Institutional,bank,5
+D.A. Davidson & Co,bank,5
+D.E. Shaw & Co.,bank,5
+Davenport & Company,bank,5
+Denali Advisors,bank,5
+DMBA,bank,5
+Dodge & Cox,bank,5
+Eagle Capital Management (NY),bank,5
+Edgestream Partners,bank,5
+Eighteen Ninety Partners,bank,5
+Elevated Capital Advisors,bank,5
+Engineers Gate Manager,bank,5
+Ensign Peak Advisors,bank,5
+Enterprise Trust & Investment Company,bank,5
+Essex Savings Bank,bank,5
+Ethic,bank,5
+Evergreen Capital Management,bank,5
+EverSource Wealth Advisors,bank,5
+Evli Bank,bank,5
+Evolve Funds Group,bank,5
+Farther Finance Inc.,bank,5
+Fengyu Ali Securities Investment Trust,bank,5
+Fiduciary Company,bank,5
+Financial Advisors Network,bank,5
+Financial Perspectives,bank,5
+Flexpoint Ford,bank,5
+Forza Wealth Management,bank,5
+Foster & Motley,bank,5
+Friedenthal Financial,bank,5
+Fukoku Mutual Life Insurance,bank,5
+Genstar Capital,bank,5
+Glenmede,bank,5
+Gotham Asset Management,bank,5
+Greenleaf Trust,bank,5
+Greenwich Wealth Management,bank,5
+Hantz Group,bank,5
+Harbour Investments,bank,5
+HB Wealth Management,bank,5
+Healthcare of Ontario Pension Plan,bank,5
+Homesteaders Life Company,bank,5
+Howard Capital Management,bank,5
+IFM Investors,bank,5
+Illinois State Board of Investment (ISBI),bank,5
+IMA Advisors,bank,5
+IMC,bank,5
+Inceptionr,bank,5
+Independent Strategic Group (ISG),bank,5
+Intech Holdings,bank,5
+Integrated Wealth Counsel,bank,5
+Investment Management Corporation of Ontario,bank,5
+J.W. Cole Advisors,bank,5
+Jane Street Group,bank,5
+Jones Financial Companies,bank,5
+Jones Kertz & Associates,bank,5
+Jump Trading,bank,5
+Kathmere Capital Management,bank,5
+Kentucky Public Pensions Authority,bank,5
+KeyCorp,bank,5
+Kingsview Partners,bank,5
+Kommunal Landspensjonskasse (KLP),bank,5
+Korea Investment Corporation,bank,5
+Kornitzer Capital Management,bank,5
+Laird Norton Company,bank,5
+Legacy Capital Group California,bank,5
+Lido Advisors,bank,5
+Louisiana State Employees' Retirement System,bank,5
+Lovell Minnick Partners,bank,5
+LPL Financial,bank,5
+LRI Investments,bank,5
+M. Elsasser & Cie AG 1971,bank,5
+Madison Investments,bank,5
+MAI Capital Management,bank,5
+Mairs and Power,bank,5
+MCF Advisors,bank,5
+Mercer Advisors,bank,5
+Merit Financial,bank,5
+Metaurus Advisors,bank,5
+Michigan Department of Treasury,bank,5
+Millennium Management,bank,5
+Mission Wealth Management,bank,5
+MN Services,bank,5
+Moneta Group,bank,5
+Moody Bancshares,bank,5
+Motilal Oswal,bank,5
+Mutual Advisors,bank,5
+NEOS Investment Management,bank,5
+New Mexico Educational Retirement Board,bank,5
+NISA Investment Advisors,bank,5
+North Carolina Retirement Systems (NCRS),bank,5
+North Dakota State Investment Board (NDSIB),bank,5
+Occudo Quantitative Strategies,bank,5
+Ocean Harbor Insurance Group,bank,5
+Ohio Public Employees Retirement System,bank,5
+Onex Corporation,bank,5
+Ontario Municipal Employees Retirement System,bank,5
+Oppenheimer Holdings,bank,5
+ORG Partners,bank,5
+Orion Portfolio Solutions,bank,5
+Oslo Pensjonsforsikring,bank,5
+Parallel Advisors,bank,5
+Parkside Financial,bank,5
+Peak6 Investments,bank,5
+Peapack Gladstone Financial,bank,5
+Pekin Insurance,bank,5
+Pennsylvania Public School Employees Retirement System,bank,5
+Perigon Wealth Management,bank,5
+Pflug Koory,bank,5
+Phoenix Capital,bank,5
+Picton Mahoney Asset Management,bank,5
+Point72,bank,5
+Private Advisor Group,bank,5
+ProShare Advisors,bank,5
+Public Sector Pension Investment,bank,5
+PZU Group,bank,5
+QRG Capital Management,bank,5
+Quadrant Capital Group LLC,bank,5
+Quantinno,bank,5
+Qube Research & Technologies,bank,5
+R.I. Vermögensbetreuung,bank,5
+Rafferty Asset Management,bank,5
+Ritholtz Wealth Management,bank,5
+Saudi Central Bank,bank,5
+Savant Capital,bank,5
+Schonfeld,bank,5
+Sequoia Financial,bank,5
+Seven Hills Foundation,bank,5
+Signaturefd,bank,5
+Smartleaf Asset Management,bank,5
+Smith Moore & Co,bank,5
+Snowden Capital Advisors,bank,5
+Soros Fund Management,bank,5
+Squarepoint,bank,5
+State Teachers Retirement System of Ohio,bank,5
+Stephens,bank,5
+Steward Financial Holdings,bank,5
+Steward Partners,bank,5
+Summit Financial Holdings,bank,5
+Summit Trail Advisors,bank,5
+Sunbelt Securities,bank,5
+Swiss National Bank,bank,5
+Syon Capital LLC,bank,5
+Teachers Retirement System of Georgia,bank,5
+Tennessee Consolidated Retirement System,bank,5
+The Ascent Group,bank,5
+The CAPROCK Group,bank,5
+The Hartford,bank,5
+The Retirement Systems of Alabama,bank,5
+The Savings Bank Mutual Life Insurance Company of Massachusetts (SBLI),bank,5
+Tin Goose Partners,bank,5
+Trexquant Investment,bank,5
+UMB Financial,bank,5
+Uncommon Cents Investing,bank,5
+Utah Retirement Systems,bank,5
+Valeo Financial Advisors,bank,5
+Vestcor,bank,5
+Waverly Advisors,bank,5
+Wealth Enhancement,bank,5
+Wealthfront,bank,5
+Wedbush,bank,5
+Wedge Capital Management,bank,5
+Western Wealth Management,bank,5
+Westwood Holdings Group,bank,5
+Wilkerson Advisory Group,bank,5
+WoodmenLife,bank,5
+WorldQuant,bank,5
+WSFS Financial,bank,5
+Xponance,bank,5
+XTX Markets,bank,5
+Yousif Capital Management,bank,5
+Daley Capital,bank,5
+C-Quadrat Group,bank,5
+Palm Harbour Capital,bank,5
+Santa Comba,bank,5
+Union Bancaire Privée,bank,5
+Value Intelligence Advisors,bank,5
+Caledonia Investments,bank,5
+Capital Investment Trust Corp,bank,5
+Core Specialty,bank,5
+Elevance Health,bank,5
+Harbinger Group,bank,5
+Ironhorse Capital,bank,5
+Jyske Bank,bank,5
+Mayr Investment Managers,bank,5
+Osmosis Holdings,bank,5
+Salomon and Ludwin,bank,5
+Sithega,bank,5
+Standard Bank,bank,5
+VSP Global,bank,5
+Independence Health Group,bank,5
+United Fire Group,bank,5
+GF Group,bank,5
+Batavia Prosperindo International,bank,5
+Virtus Investment Partners,bank,5
+Xiamen International Bank,bank,5
+Asian Development Bank,bank,5
+Alfa Mutual Insurance Company,bank,5
+Fisch Asset Management,bank,5
+World Bank,bank,5
+"Lord, Abbett & Co",bank,5
+Nishi-Nippon City Bank,bank,5
+Asset Value Investors,bank,5
+Leumi Group,bank,5
+Rothschild Group,bank,5
+Emirates NBD,bank,5
+Shinyoung Securities,bank,5
+Strive Enterprises,bank,5
+Tobam,bank,5
+MKH Oil Palm,group,5
+iDealing,bank,4
+IG Group,bank,4
+Velten Asset Management,bank,4
+Ambac Financial Group,bank,4
+American Family,bank,4
+Arch Capital Group,bank,4
+Arvest Funds,bank,4
+Axar Capital,bank,4
+BankInvest,bank,4
+BetterLife,bank,4
+Blue Cross Blue Shield of Tennessee,bank,4
+Calamos Investments,bank,4
+Capital Investment Advisors,bank,4
+Carlyle Group,bank,4
+Cincinnati Financial,bank,4
+CoreCommodity Capital,bank,4
+Dux Inversores,bank,4
+Employers Mutual Casualty Company,bank,4
+Fidelity National Financial,bank,4
+Fisher Investments,bank,4
+Frankenmuth Mutual Insurance Company,bank,4
+FWU,bank,4
+Gemcorp Capital Advisors,bank,4
+Helvetia Baloise,bank,4
+Independent Life Insurance Company,bank,4
+Iowa Farm Bureau Group,bank,4
+Medical Insurance of Maryland Group,bank,4
+MFI Asset Management,bank,4
+National Farm Life Insurance Company,bank,4
+Prosperity Life Insurance Group,bank,4
+Ruffer,bank,4
+Safety Insurance,bank,4
+SiriusPoint,bank,4
+Trusted Fraternal Life,bank,4
+Wintrust Private Trust,bank,4
+Social Security Organisation,bank,4
+Renta 4 Banco,bank,4
+Altrafin,bank,4
+Argo Group,bank,4
+Brewin Dolphin,bank,4
+GuideOne Insurance,bank,4
+Hachijuni Bank,bank,4
+HAI Group,bank,4
+Income Research & Management,bank,4
+Interactive Brokers Group,bank,4
+Juroku Bank,bank,4
+Knights of Columbus,bank,4
+Liontrust Asset Management,bank,4
+Pensioenfonds Horeca & Catering (PH&C),bank,4
+Primerica Group One,bank,4
+Starr Group,bank,4
+State Workers' Insurance Fund,bank,4
+Symetra Financial Corporation,bank,4
+Texas Mutual Insurance,bank,4
+The Doctors Company,bank,4
+Blaylock Beal Van,bank,4
+Virginia Farm Bureau Group,bank,4
+Export Import Bank of Thailand,bank,4
+Shiga Bank,bank,4
+Shinsei Bank,bank,4
+Taichung Commercial Bank,bank,4
+ACATIS Investment,bank,4
+Bailard,bank,4
+PVV Private VermögensVerwaltung,bank,4
+Arga Investment Management,bank,4
+First Eagle Investments,bank,4
+Maj Invest,bank,4
+Orbis Group,bank,4
+Perinvest,bank,4
+Banque Misr,bank,4
+Habib Bank,bank,4
+Keiyo Bank,bank,4
+Korea Eximbank,bank,4
+Nanto Bank,bank,4
+Havelock London,bank,4
+HI Investment & Securities,bank,4
+Korea Securities Finance Corp,bank,4
+TIMEFOLIO Asset Management,bank,4
+Woori Financial,bank,4
+Westchester,bank,4
+HMG Finance,bank,4
+Ant Group,bank,4
+Artisan Partners,bank,4
+Aubrey Capital Management,bank,4
+China Banking Corporation,bank,4
+Galaxy Fund Management,bank,4
+Guolian Securities,bank,4
+Hanwha Investment & Securities,bank,4
+Shariaportfolio,bank,4
+Beijing Hony Assets Management,bank,4
+Broad Capital,bank,4
+China Everbright,bank,4
+China Taiping Insurance,bank,4
+Essence Fund,bank,4
+First Seafront Fund Management,bank,4
+Hongde Fund Management,bank,4
+People's Insurance Company of China,bank,4
+Rongtong Fund Management,bank,4
+Shanxi Financial Investment,bank,4
+UBS SDIC Fund Management Co,bank,4
+Xingyin Fund Management,bank,4
+Barito Pacific Group,group,4
+Global Palm Resource Holdings,group,4
+Golden Land Group,group,4
+Mewah International,group,4
+Arbuthnot Banking Group,bank,3
+IFG Group,bank,3
+Trustmoore Group,bank,3
+American Farmers and Ranchers Mutual Insurance Company,bank,3
+Baltimore Life Insurance,bank,3
+Bankhaus Metzler,bank,3
+Blue Cross Blue Shield of South Carolina,bank,3
+Capital Advantage,bank,3
+Centre Life Insurance,bank,3
+Enstar Group,bank,3
+Federated Rural Electric Insurance Exchange,bank,3
+Hermann Sons Life,bank,3
+Hillsdale Investment Management,bank,3
+Ibexis Life & Annuity Insurance Company,bank,3
+Kinsale Capital Group,bank,3
+Lawyers Mutual Insurance Company,bank,3
+Life & Specialty Ventures,bank,3
+Medical Mutual of Ohio,bank,3
+Munich Re,bank,3
+Nmi Holdings Group,bank,3
+Old National Bancorp,bank,3
+Pharmacists Mutual Group,bank,3
+Resolution Group,bank,3
+Spiekermann & CO,bank,3
+State Compensation Insurance Fund (California),bank,3
+Teacher Retirement System of Texas,bank,3
+Todd Asset Management,bank,3
+azValor Asset Management,bank,3
+Blue Quadrant Capital Management,bank,3
+Claresco Finance,bank,3
+First Foundation,bank,3
+HC Capital Advisors,bank,3
+Horos Asset Management,bank,3
+La Caixa Group,bank,3
+Valu-Trac,bank,3
+IAT Insurance Group,bank,3
+Aaron Wealth Advisors,bank,3
+Abacus Planning Group,bank,3
+Abacus Wealth Partners,bank,3
+Abbot Financial Management,bank,3
+Active Niche Funds,bank,3
+Advisor Resource Council,bank,3
+AdvisorNet Financial,bank,3
+AdvisorTrust Partners,bank,3
+Aldebaran Financial,bank,3
+Alessandra Capital Management,bank,3
+Alphadyne Asset Management,bank,3
+Alquity Investment Management,bank,3
+American Capital Advisory,bank,3
+American European Group,bank,3
+American National Insurance,bank,3
+American Trust Investment Advisors,bank,3
+AMG National Corp,bank,3
+Ares Financial Consulting,bank,3
+ARS Investment Partners,bank,3
+Arthur J. Gallagher,bank,3
+Aventura Private Wealth,bank,3
+Avion Wealth,bank,3
+Baker Avenue Asset Management,bank,3
+Balanced Advisors,bank,3
+Banco de Sabadell,bank,3
+Bank of New Hampshire,bank,3
+Barometer Capital Management,bank,3
+Bartlett Group,bank,3
+Bay Harbor Wealth Management,bank,3
+Beacon Investment Advisory Services,bank,3
+Bell Investment Advisors,bank,3
+Beltraith Capital,bank,3
+Bleakley Financial Group,bank,3
+Bosman Wealth Management,bank,3
+Bridgefront Capital,bank,3
+Bruce G. Allen Investments,bank,3
+Buena Capital Advisors,bank,3
+Caldwell Sutter Capital,bank,3
+Calydon Capital,bank,3
+Campbell & Company,bank,3
+Cape Investment Advisory,bank,3
+Capital Advisors (Ohio),bank,3
+Catalyst Capital Advisors,bank,3
+CCM Partners,bank,3
+Cedar Mountain Advisors,bank,3
+Chelsea Counsel,bank,3
+Chesapeake Advisory Group,bank,3
+"Chesley, Taft & Associates",bank,3
+Chugoku Bank,bank,3
+CIMD Group,bank,3
+Cinctive Capital Management,bank,3
+Clark Capital Management Group,bank,3
+Clark Wealth Partners,bank,3
+ClearAlpha Technologies,bank,3
+Clearstead Trust,bank,3
+Cohasset,bank,3
+Colrain Capital,bank,3
+Commonwealth Retirement Advisors,bank,3
+Concorde Financial,bank,3
+Continuum Advisory,bank,3
+Contravisory Investment Management,bank,3
+"Cookson, Peirce & Co.",bank,3
+CoreFirst Bank & Trust,bank,3
+Cornerstone Financial Management,bank,3
+Cornerstone Planning Group,bank,3
+Cornerstone Select Advisors,bank,3
+Creative Capital Management Investments,bank,3
+CresAlta Investment Management,bank,3
+Crews Bank & Trust,bank,3
+Croghan Colonial Bank,bank,3
+Crumly & Associates,bank,3
+Cutler Capital Management,bank,3
+Cyber Hornet,bank,3
+DiNuzzo Private Wealth,bank,3
+DRW Holdings,bank,3
+Dymon Asia,bank,3
+Dynamic Technology Lab,bank,3
+E. Gutzwiller & Cie,bank,3
+Eastern Bank,bank,3
+Elequin Capital,bank,3
+Elevation Wealth Partners,bank,3
+Essential Partners,bank,3
+Evolve Wealth Holdings,bank,3
+Faith Investor Services,bank,3
+Faithward Advisors,bank,3
+Farmers & Merchants Investment,bank,3
+Farringdon Capital Management,bank,3
+Fieldview Capital Management,bank,3
+Fifth Avenue Family Office,bank,3
+Forthright Family Wealth Advisory,bank,3
+Fourth Dimension Wealth,bank,3
+Fox Run Management,bank,3
+Freestone Capital Management,bank,3
+Fruth Investment Management,bank,3
+FSA Advisors,bank,3
+Fulton Financial,bank,3
+FWL Investment Management,bank,3
+Gateway Wealth Partners,bank,3
+Gould Asset Management,bank,3
+Gradient Financial Group,bank,3
+GSA Capital Services,bank,3
+GTS Financial,bank,3
+Hager Investment Management Services,bank,3
+Hara Capital,bank,3
+HFM Investment Advisors,bank,3
+High Note Wealth,bank,3
+Hollencrest Capital Management,bank,3
+Horizon Blue Cross Blue Shield of New Jersey,bank,3
+Hyposwiss Private Bank Genève,bank,3
+IFS Advisors,bank,3
+Ingalls & Snyder,bank,3
+Inverness Holdings,bank,3
+Investors Asset Management of Georgia,bank,3
+J.B. Capital,bank,3
+Jefferies Financial Group,bank,3
+Johnson Financial Group (WI),bank,3
+Jupiter Wealth Management,bank,3
+Keating Financial Advisory Services,bank,3
+Kemnay Advisory Services,bank,3
+Kendall Capital Management,bank,3
+Key Capital Management,bank,3
+KGT Investment Partners,bank,3
+Kingdom Financial Group,bank,3
+Labha Investment Advisors,bank,3
+Lamco Capital,bank,3
+Lanark Financial,bank,3
+Leap Investments,bank,3
+Leeward Investments,bank,3
+Leo Wealth,bank,3
+Lesa Sroufe & Company,bank,3
+Lloyd Advisory Services,bank,3
+Logan Capital Management,bank,3
+Managed Asset Portfolios,bank,3
+Manchester Capital Management,bank,3
+Manning & Napier,bank,3
+Manzil Investment Advisors,bank,3
+Marble Trail Financial,bank,3
+Marex Financial,bank,3
+McCarter Private Wealth Services,bank,3
+Merewether Investment Management,bank,3
+Midland Financial,bank,3
+Mischler Financial Group,bank,3
+Monaco asset management,bank,3
+Monetary Management Group,bank,3
+Motiv8 Investments,bank,3
+MV Capital Management,bank,3
+NBT Bank,bank,3
+Networth Advisors,bank,3
+Nicolet National Bank,bank,3
+Novem Group,bank,3
+Oak Thistle,bank,3
+O'Brien Greene & Co,bank,3
+Ogorek Wealth Management,bank,3
+Old West Investment Management,bank,3
+One Eleven Capital,bank,3
+OxFORD Asset Management,bank,3
+Pacific Point Advisors,bank,3
+Parvin Asset Management,bank,3
+Patton Albertson & Miller,bank,3
+PCM Encore,bank,3
+PDT Partners,bank,3
+Pekin Hardy Strauss,bank,3
+Penserra Financial Ventures,bank,3
+Peregrine Capital Management,bank,3
+Physician Wealth Advisors,bank,3
+Picard Angst,bank,3
+Pine Grove Financial Group,bank,3
+Pinnacle Wealth Planning Services,bank,3
+PKS Advisory Services,bank,3
+Precision Wealth Strategies,bank,3
+Principia Wealth Advisory,bank,3
+Private Wealth Asset Management,bank,3
+Private Wealth Group,bank,3
+Prospera Holdings,bank,3
+Punch & Associates Investment Management,bank,3
+Qsemble Capital Management,bank,3
+Quantbot Technologies,bank,3
+Quantiative Investment Management,bank,3
+Quent Capital,bank,3
+Quest 10 Wealth Builders,bank,3
+Red Tortoise,bank,3
+Regal Investment Advisors,bank,3
+Rialto Wealth Management,bank,3
+Richardson Financial Services,bank,3
+RiverGlades Family Offices,bank,3
+Robinswood Financial,bank,3
+Rokos Capital Management,bank,3
+RoseCap Financial Advisors,bank,3
+Rossby Financial,bank,3
+S&T Bancorp,bank,3
+Sachetta,bank,3
+Sagefield Capital,bank,3
+SageView Advisory Group,bank,3
+Sagicor Financial,bank,3
+Sankala Group,bank,3
+SBAuer Funds,bank,3
+Schiketanz Capital Advisors,bank,3
+Seascape Capital Management,bank,3
+SG Value Partners,bank,3
+Shepherd Wealth Management,bank,3
+SHP Financial,bank,3
+Sicart Management,bank,3
+Signature Equity Partners,bank,3
+Silver Grove Financial Group,bank,3
+Simplex Trading,bank,3
+SIR Capital Management,bank,3
+SJS Investment Consulting,bank,3
+Smithfield Trust Company,bank,3
+Snowwater Investment Partners,bank,3
+Sony Financial Holdings,bank,3
+South State Bank,bank,3
+Spire Investment Partners,bank,3
+Sprott,bank,3
+St. Germain Investment Management,bank,3
+Stance Capital,bank,3
+Steadtrust,bank,3
+Stevens Capital Management,bank,3
+Summit Securities Group,bank,3
+Sunrise Financial Services,bank,3
+TCV Trust & Wealth Management,bank,3
+TD Capital Management,bank,3
+Tejara Capital,bank,3
+The Financial Consulate,bank,3
+The Mather Group,bank,3
+The Prosperity Consulting Group,bank,3
+The Quarry,bank,3
+Torren Management,bank,3
+Tounjian Advisory Partners,bank,3
+Towle & Co,bank,3
+Trivium Point Financial Holdings,bank,3
+True Wealth Design,bank,3
+TrueWealth Advisors,bank,3
+Tudor Investment Corporation,bank,3
+Turas Capital Management,bank,3
+Twinbeech Capital,bank,3
+United Community Bank,bank,3
+United Financial Planning Group,bank,3
+University of Pittsburgh Medical Center (UPMC),bank,3
+University of Texas Investment Management Company (UTIMCO),bank,3
+USA Financial Formulas Corporation,bank,3
+Valley National Advisers,bank,3
+Valor Holdings,bank,3
+Vericimetry Advisors,bank,3
+Verition Fund Management,bank,3
+Vermillion Wealth Management,bank,3
+Versant Capital Management,bank,3
+Verus Capital Partners,bank,3
+Vise AI Advisors,bank,3
+Voloridge Investment Management,bank,3
+Wall Street Access,bank,3
+WaterFront Wealth,bank,3
+West Bend Mutual Insurance Company,bank,3
+Westfield Capital Management,bank,3
+Westfuller Advisors,bank,3
+Westwind Capital,bank,3
+Whalen Wealth Management,bank,3
+Whitaker-Myers Wealth Managers,bank,3
+Windsor Capital Management,bank,3
+Winton Group,bank,3
+Wiregrass Investment Management,bank,3
+WIT Partners Advisory,bank,3
+WPG Advisers,bank,3
+Yamaguchi Financial Group,bank,3
+Zions Bancorporation,bank,3
+Capital One Financial,bank,3
+Debeka,bank,3
+First Acceptance,bank,3
+FirstRand,bank,3
+GeoVera Insurance Group Holdings,bank,3
+Horace Mann Educators,bank,3
+Merrimack Insurance Company,bank,3
+Pure Capital,bank,3
+RenaissanceRe,bank,3
+RLI Corporation,bank,3
+State Volunteer Mutual Insurance Company,bank,3
+United Heritage,bank,3
+Wea Insurance Corporation,bank,3
+Western Reserve Group,bank,3
+Lotte Group,bank,3
+Legend Holdings,bank,3
+Minmetals Securities,bank,3
+Ciptadana Capital,bank,3
+Tredje AP-Fonden (AP-3),bank,3
+Opus Global,bank,3
+AMF Pensionsförsäkring,bank,3
+Bank Gutmann,bank,3
+Hiroshima Bank,bank,3
+Ibercaja Group,bank,3
+Kutxabank,bank,3
+Sparebanken 1 Gruppen,bank,3
+Blue Cross Blue Shield of Kansas,bank,3
+Hollis Capital,bank,3
+Bank Pembangunan Daerah - Kalimantan Selatan,bank,3
+FIMBank Group,bank,3
+National Bank of Ras Al-Khaimah,bank,3
+City of London Investment Group,bank,3
+Dalton Investments,bank,3
+First Pacific Advisors,bank,3
+Silchester International Investors,bank,3
+Taunus Trust,bank,3
+KW Investment Mangement,bank,3
+Pilling & Co. Stockbrokers,bank,3
+Polar Capital Holdings,bank,3
+Precision Capital,bank,3
+AKA Bank,bank,3
+BNS International Group,bank,3
+JICA,bank,3
+Bank Riau Kepri,bank,3
+Exim Bank (Tanzania),bank,3
+LIG Group,bank,3
+Harbor Capital Advisors,bank,3
+Pzena Investment Management,bank,3
+CT Corpora,bank,3
+North of South Capital,bank,3
+China Life Insurance,bank,3
+Huishang Bank,bank,3
+Alcatel Lucent Pensioenfonds,bank,2
+BIL,bank,2
+Canaccord Financial,bank,2
+Fiske Plc,bank,2
+flatexDEGIRO,bank,2
+Gesiuris Asset Management,bank,2
+Leleux Associated Brokers,bank,2
+Nokia Bell Pensioenfonds,bank,2
+St. James's Place,bank,2
+10X Investments,bank,2
+1st Source,bank,2
+27four Investment Managers,bank,2
+3 Banken Group,bank,2
+Abacus Life (ABL),bank,2
+ABLE Financial Group,bank,2
+Accel Wealth Management,bank,2
+Advanced Portfolio Management,bank,2
+Advisor OS,bank,2
+Advisory Alpha,bank,2
+Albert D. Mason,bank,2
+ALKEME,bank,2
+"Allen, Mooney & Barnes",bank,2
+Alpha Partners,bank,2
+Alphacore Capital,bank,2
+Altshuler Shaham Group,bank,2
+American Alpha Advisors,bank,2
+American Assets Investment Management,bank,2
+American National Corporation,bank,2
+Anchor Investment Management,bank,2
+Apella Capital,bank,2
+Apollon Holdings,bank,2
+Appleton Partners,bank,2
+Applied Capital,bank,2
+Aprio Wealth Management,bank,2
+Aptus Capital Advisors,bank,2
+Aquatic Capital Management,bank,2
+AR Asset Management,bank,2
+ARAG,bank,2
+Archford Capital Strategies,bank,2
+Argent Financial Group,bank,2
+Argenta,bank,2
+Argyle Capital Management,bank,2
+ArrowMark Colorado,bank,2
+Associated Banc-Corp,bank,2
+Astoria Portfolio Advisors,bank,2
+Atala Financial,bank,2
+Athena Investment Management,bank,2
+Atlantic Union Bank,bank,2
+Aull & Monroe,bank,2
+Avanza,bank,2
+Avestar Capital,bank,2
+Aviance Capital Partners,bank,2
+Azzad Asset Management,bank,2
+B&C Financial Advisors,bank,2
+Banca Transilvania,bank,2
+BancPlus Corporation,bank,2
+Bankhaus Lampe,bank,2
+BCM Advisors,bank,2
+Beacon Investment Advisors,bank,2
+Bearing Point Capital,bank,2
+Bell Bank,bank,2
+Benedict Financial Advisors,bank,2
+Beneficial Financial Group,bank,2
+Benjamin Edwards,bank,2
+Berkeley Capital Partners,bank,2
+Berkshire Asset Management,bank,2
+Bill Few Associates,bank,2
+Boston Research and Management,bank,2
+Brady Martz Wealth Solutions,bank,2
+Brendel Financial Advisors,bank,2
+Brighton Jones,bank,2
+Brompton Group,bank,2
+Brookstone Capital Management,bank,2
+Brown Advisory,bank,2
+Cambient Family Office,bank,2
+Canada Pension Plan Investment Board,bank,2
+Canada Post Corporation Pension Plan,bank,2
+Capital Wealth Advisors,bank,2
+Capital Wealth Planning,bank,2
+Capstone Financial Advisors,bank,2
+Cardinal Point Wealth Management,bank,2
+"Carr, Riggs & Ingram (CRI)",bank,2
+Catalyst Fund Management,bank,2
+Catholic Life Insurance Union,bank,2
+Cedar Point Capital Partners,bank,2
+Centennial Wealth Advisory,bank,2
+CFS Investment Advisory Services,bank,2
+Chancellor Financial Group,bank,2
+Chicago Capital,bank,2
+Choreo,bank,2
+CIM Investment Management US,bank,2
+City Center Advisors,bank,2
+City Holding,bank,2
+City State Bank,bank,2
+Claro Advisors,bank,2
+Clear Harbor Asset Management,bank,2
+Clear Trail Advisors,bank,2
+CMC Financial Group,bank,2
+CNB Bank,bank,2
+COFG Advisors,bank,2
+Commerce Bancshares,bank,2
+Comprehensive Money Management Services,bank,2
+Continental General,bank,2
+Convergence Investment Partners,bank,2
+Cordoba International Holdings,bank,2
+Cornerstone Wealth Management,bank,2
+"Coston, McIsaac & Partners",bank,2
+Cozad Asset Management,bank,2
+CreativeOne Wealth,bank,2
+Cullen Capital Management,bank,2
+Curat Global LLC,bank,2
+CW Advisors,bank,2
+Cyndeo Wealth Partners,bank,2
+Dakota Wealth Management,bank,2
+Dawn Global,bank,2
+Daymark Wealth Partners,bank,2
+Digital Insurance,bank,2
+Diversified,bank,2
+Diversified Trust,bank,2
+Donegal Group,bank,2
+Douglass Winthrop Advisors,bank,2
+Dumont & Blake Investment Advisors,bank,2
+Duncan Williams Asset Management,bank,2
+DV Group,bank,2
+Dynamic Wealth Advisors,bank,2
+ECM Insurance Group,bank,2
+EDMP,bank,2
+Elevation Point,bank,2
+Empirical Financial Services,bank,2
+EP Wealth Advisors,bank,2
+Erie & Niagara Insurance Association,bank,2
+Essex Investment Management Company,bank,2
+Ethos Financial Group,bank,2
+Etico Financial,bank,2
+Everhart Financial Group,bank,2
+F.L. Putnam Securities,bank,2
+Fairfield Bush & Co,bank,2
+Family Manage,bank,2
+FAS Wealth Partners,bank,2
+Field & Main Bank,bank,2
+Finaccess Group,bank,2
+Financeware,bank,2
+Financial Institutions,bank,2
+First Busey Corporation,bank,2
+First State Bank,bank,2
+Flagship Harbor Advisors,bank,2
+Focused Alpha,bank,2
+Folger Nolan Fleming Douglas Capital Management,bank,2
+Forteris Wealth Management,bank,2
+Forty-Three Eighteen Advisors,bank,2
+Foundations Investment Advisors,bank,2
+"Frank, Rimmerman Advisors",bank,2
+Frec Markets,bank,2
+FRG Family Wealth Advisors,bank,2
+G&S Capital,bank,2
+GBR Capital,bank,2
+Geneos Wealth Management,bank,2
+General Catalyst,bank,2
+Gen-Wealth Partners,bank,2
+Gill Capital Management,bank,2
+Glenview Trust Company,bank,2
+Global Atlantic Financial,bank,2
+Godsey & Gibb,bank,2
+Great Valley Advisor Group,bank,2
+Greenline Partners,bank,2
+Greenwich Insurance Company,bank,2
+Grinnell Mutual Reinsurance Company,bank,2
+Guardian Investment Management,bank,2
+Guyasuta Investment Advisors,bank,2
+H. M. Payson & Co,bank,2
+Hancock Whitney,bank,2
+HBT Financial,bank,2
+HealthyDakota Mutual,bank,2
+Heritage Investors Management,bank,2
+Heritage Wealth Advisors,bank,2
+Hickory Point Bank,bank,2
+Hilltop Holdings,bank,2
+Hometown Financial,bank,2
+Hoxton Planning & Management,bank,2
+Hussman Strategic Advisors,bank,2
+Icon Advisers,bank,2
+Idaho Trust Bank,bank,2
+IHT Wealth Management,bank,2
+Illinois Municipal Retirement Fund,bank,2
+Impact Partnership Wealth,bank,2
+Independent Advisor Alliance,bank,2
+Indiana Farmers Mutual Insurance Company,bank,2
+Indiana Trust,bank,2
+Inscription Capital,bank,2
+Integrity Alliance,bank,2
+International Assets Investment Management,bank,2
+International Private Wealth Advisors,bank,2
+Investment Research Corporation,bank,2
+Ion Asset Management Israel,bank,2
+Iron Financial,bank,2
+ISMIE Mutual Insurance Company,bank,2
+Jackson Creek Investment Advisors,bank,2
+Jacobi Capital Management,bank,2
+Jacobs Levy Equity Management,bank,2
+Jain Global,bank,2
+Jamison Private Wealth Management,bank,2
+Jeppson Wealth Management,bank,2
+JT Stratford,bank,2
+JTL Group,bank,2
+KCM Investment Advisors,bank,2
+Keebeck Partners,bank,2
+Kenora Financial,bank,2
+Kiley Juergens Wealth Management,bank,2
+Kimelman & Baird,bank,2
+Kingswood Holdings,bank,2
+Kinloch Capital,bank,2
+Kintegral Advisory,bank,2
+Koshinski Asset Management,bank,2
+KSKJ Life American Slovenian Catholic Union,bank,2
+L2 Asset Management,bank,2
+Ladenburg Thalmann Financial Services,bank,2
+Laurel Wealth Planning,bank,2
+Lavaca Capital,bank,2
+Leavell Investment Management,bank,2
+Lees Monsour Group,bank,2
+Legacy,bank,2
+Legacy Financial Advisors,bank,2
+Legacy Financial Strategies,bank,2
+Legacy Trust,bank,2
+Leonteq,bank,2
+Levin Capital Strategies,bank,2
+Linden Thomas Financial Group,bank,2
+Loudon Investment Management,bank,2
+"Lowe, Brockenbrough & Company",bank,2
+Loyal Christian Benefit Association,bank,2
+Luther King Capital Management,bank,2
+Madison Dearborn Partners,bank,2
+Maine Public Employees Retirement System (MainePERS),bank,2
+Mariner Wealth Advisors,bank,2
+Martel Wealth Advisors,bank,2
+Martingale Asset Management,bank,2
+McCarthy Capital,bank,2
+McMillan Office,bank,2
+Measured Wealth Private Client Group,bank,2
+Medallion Wealth Advisors,bank,2
+MGO/OS Holdings,bank,2
+Michigan Farm Bureau Group,bank,2
+MidOcean Partners,bank,2
+Midwest Trust Company,bank,2
+Minella Capital Management,bank,2
+Minnehaha Banshares,bank,2
+Mirabella Financial Services,bank,2
+Mission Creek Capital Partners,bank,2
+"Mitchell, McLeod, Pugh & Williams",bank,2
+MJP Associates,bank,2
+Modera Capital,bank,2
+Modern Wealth Management,bank,2
+Monarch Capital Management,bank,2
+Mount Lucas Management Corporation,bank,2
+MSH Capital Advisors,bank,2
+Mutual of America Life Insurance Company,bank,2
+Mutual Of Enumclaw Group,bank,2
+Naples Global Advisors,bank,2
+Nations Financial Group,bank,2
+Neo Ivy Capital Management,bank,2
+Net Worth Advisory Group,bank,2
+New Age Alpha,bank,2
+Newbridge Financial,bank,2
+Nilsine Assets,bank,2
+NiMCO Corporation,bank,2
+North Star Asset Management,bank,2
+Northeast Investment Management,bank,2
+NWAM,bank,2
+Obermeyer Wood Investment Counsel,bank,2
+Odyssean,bank,2
+Old North State Trust,bank,2
+"Old Port Advisors, Inc.",bank,2
+Opal Capital,bank,2
+Orca Investment Management,bank,2
+Oregon Mutual Group,bank,2
+Orographic Financial,bank,2
+Oxbow Advisors,bank,2
+Pacifica Partners,bank,2
+Pacitti Group,bank,2
+Pædagogernes Pensionskasse (PBU),bank,2
+Palisade Asset Management,bank,2
+Pallas Capital Advisors,bank,2
+Parallax Volatility Advisers,bank,2
+Parsons Capital Management,bank,2
+Patrick M Sweeney & Associates,bank,2
+Patriot Investment Management Group,bank,2
+Patton Fund Management,bank,2
+PAX Financial Group,bank,2
+PDS Planning,bank,2
+Pensofinance,bank,2
+Percheron Asset Management Group,bank,2
+Peregrine Asset Advisers,bank,2
+Perpetual,bank,2
+Personal CFO Solutions,bank,2
+PFG Investments,bank,2
+Philiadelphia Trust Company,bank,2
+Phoenix Investments and Finance,bank,2
+Phoenix Wealth Advisors,bank,2
+Pinnacle Associates,bank,2
+Pinnacle Bancorp,bank,2
+Pinnacle West Asset Management,bank,2
+Pioneer State Mutual Insurance,bank,2
+PKO Bank Polski,bank,2
+Plan A Wealth,bank,2
+Plancorp,bank,2
+Plante & Moran,bank,2
+PlanVest Financial,bank,2
+Pointe Capital Management,bank,2
+Polianta,bank,2
+Portside Wealth Group,bank,2
+Powers Advisory Group,bank,2
+PracticeCFO,bank,2
+Prelude Capital Management,bank,2
+Premier Path Holdings,bank,2
+Prime Capital Financial,bank,2
+Principle Wealth Partners,bank,2
+Private Wealth Advisors,bank,2
+Probity Advisors,bank,2
+Procyon Advisors,bank,2
+Professionals Financial,bank,2
+Proficio Capital Partners,bank,2
+ProFund Advisors,bank,2
+Progressive Corporation,bank,2
+QTR Family Wealth,bank,2
+"QuadCap Wealth Management, LLC",bank,2
+R. Stewart Eads Investment Counsel,bank,2
+Radian Group,bank,2
+Rahlfs Capital,bank,2
+Recurrent Investment Advisors,bank,2
+Red Door Wealth Management,bank,2
+Regal Reinsurance Group,bank,2
+Rehmann Financial,bank,2
+Revisor Wealth Management,bank,2
+Reyes Financial Architecture,bank,2
+RFG Advisory Group,bank,2
+Ridgewood Investments,bank,2
+RiversEdge Advisors,bank,2
+Robinson Value Management,bank,2
+Rodgers Brothers,bank,2
+Romano Wealth Management,bank,2
+Royal Fund Management,bank,2
+RWA Wealth Partners,bank,2
+Safeway Insurance,bank,2
+Sage Capital Advisors,bank,2
+SageSpring Wealth Partners,bank,2
+Sagewood Asset Management,bank,2
+Sara-Bay Financial,bank,2
+Sarofim Group,bank,2
+Savvy Wealth,bank,2
+SAX,bank,2
+"Schneider, Walter & Kollegen Vermögensverwaltung",bank,2
+Seacrest Wealth Management,bank,2
+Searle & Co,bank,2
+Security Mutual Life Insurance,bank,2
+Sierra Summit Advisors,bank,2
+Sigma Planning Corporation,bank,2
+Silver Oak Securities,bank,2
+Silverlake Wealth Management,bank,2
+SimplyRich,bank,2
+SlateStone Wealth,bank,2
+Smith Shellnut Wilson,bank,2
+Soltis Investment Advisors,bank,2
+Souders Financial Advisors,bank,2
+Sound Financial Strategies Group,bank,2
+Southern Michigan Bancorp,bank,2
+Sowell Management,bank,2
+SpiderRock,bank,2
+Spirit Acquistions,bank,2
+Spruce Point Capital Management,bank,2
+Stamos Capital Partners,bank,2
+Stanley-Laman Group,bank,2
+Steel Grove Capital Advisors,bank,2
+Stock Yards Bank & Trust,bank,2
+Strategas Asset Management,bank,2
+Stratos Wealth Partners,bank,2
+SYKON Asset Management,bank,2
+Synovus Financial,bank,2
+Tamarisk Financial,bank,2
+Tatro Capital,bank,2
+TCB Corporation,bank,2
+TCM Advisors,bank,2
+The Advocates,bank,2
+The Burney Company,bank,2
+The Kieckhefer Group,bank,2
+The Marshall Financial Group,bank,2
+The Sharp Financial Group,bank,2
+The Welch Group,bank,2
+Thomasville National Bank,bank,2
+Tiedemann Wealth Management,bank,2
+Tiemann Investment Advisors,bank,2
+TKG Advisors,bank,2
+TL Private Wealth,bank,2
+Tompkins Wealth Management,bank,2
+Torrey Growth & Income Advisors,bank,2
+Tradition Wealth Management,bank,2
+Truvestments,bank,2
+Twin Capital Management Inc,bank,2
+Twin Tree Management,bank,2
+U.S. Capital Wealth Advisors,bank,2
+Ukrainian National Association,bank,2
+Unison Advisors,bank,2
+United Capital Management of Kansas,bank,2
+Universities Superannuation Scheme,bank,2
+Van Cleef Asset Management,bank,2
+Van Hulzen Asset Management,bank,2
+Vectors Research Management,bank,2
+Venture Visionary Partners,bank,2
+Verity & Verity,bank,2
+Vest Financial,bank,2
+Vestmark,bank,2
+Virginia Retirement System,bank,2
+Vision Financial Markets,bank,2
+Volumetric Advisers,bank,2
+Wagner Wealth Management,bank,2
+Wahed Invest,bank,2
+Wakefield Asset Management,bank,2
+Waterloo Capital Management,bank,2
+WAY Fund Managers,bank,2
+Waystone,bank,2
+Wealth Alliance Advisory Group,bank,2
+Wealth Effects,bank,2
+Weatherly Asset Management,bank,2
+Wedmont Private Capital,bank,2
+Wellmark,bank,2
+WesBanco,bank,2
+West Financial Advisors,bank,2
+Westport Asset Management,bank,2
+Wexford Capital,bank,2
+Whittier Trust Company,bank,2
+William Blair & Company,bank,2
+Windsor Mount Joy Mutual Insurance,bank,2
+Winterberg & Seelmeyer Vermogensverwaltung,bank,2
+Woodline Partners,bank,2
+Wyoming State Treasurer's Office,bank,2
+Xcelsior Advisor Partners,bank,2
+XL Group,bank,2
+XXI Wealth,bank,2
+Y-Intercept,bank,2
+Chinchoo Investment,bank,2
+Adepa Global Services,bank,2
+Attitude Group,bank,2
+Baobab Investment Management,bank,2
+Fideas CAPITAL,bank,2
+Fonds de Réserve pour les Retraites (FRR),bank,2
+FundSight,bank,2
+Lakefield Partners,bank,2
+Lyrical Asset Management,bank,2
+Mediobanca Banca di Credito Finanziario,bank,2
+Renta 4 Luxembourg,bank,2
+Sigma Clarity Group,bank,2
+Stonewood Asset Management,bank,2
+SWM SwissWealth Management,bank,2
+Turgot Asset Management,bank,2
+Twenty First Capital,bank,2
+Van Lanschot Kempen,bank,2
+Varianza Gestión,bank,2
+1741 Group,bank,2
+Alpha Investor Services Management,bank,2
+American Automobile Association,bank,2
+Angel Oak Capital Advisors,bank,2
+Antea Vermögensverwaltung,bank,2
+Canal Insurance,bank,2
+Carle Foundation,bank,2
+Covéa,bank,2
+Dai-Ichi Life,bank,2
+Delta Dental Plans Association,bank,2
+Everence Group,bank,2
+GBU Financial Life,bank,2
+"Hirtle, Callaghan & Co.",bank,2
+Hyakujushi Bank,bank,2
+Intact Financial Corporation,bank,2
+Kramer-Wilson Company (KWC),bank,2
+Lancer Insurance,bank,2
+Manhattan Life,bank,2
+MGIC Investment Corporation,bank,2
+Minato Bank,bank,2
+OneMain Financial Holdings,bank,2
+Osiris Asset Management,bank,2
+Pacific Income Advisers,bank,2
+PartnerRe Asset Management Company,bank,2
+Payden & Rygel,bank,2
+Penn National Insurance,bank,2
+People's Trust Insurance,bank,2
+RiverNorth Capital Management,bank,2
+Shank Williams Cisneros,bank,2
+Swiss Pension and Investment Group,bank,2
+Trans-Oceanic Life Insurance Company,bank,2
+Valore Capital Partners,bank,2
+Aargauische Kantonalbank,bank,2
+Amerco,bank,2
+American Republic Insurance,bank,2
+Amistad Financial Group,bank,2
+Berenberg Bank,bank,2
+Berkshire Hathaway,bank,2
+CBNK,bank,2
+CL King & Associates,bank,2
+Fairfax Financial,bank,2
+Grange Insurance,bank,2
+Greater New York Mutual Insurance Company,bank,2
+Kentucky Employers Mutual Insurance,bank,2
+Modern Woodmen of America,bank,2
+New Jersey Manufacturers,bank,2
+nordIX,bank,2
+SAR Holdings,bank,2
+State Mutual Insurance Company,bank,2
+Union Bank of Taiwan,bank,2
+W.R. Berkley,bank,2
+WCF Insurance Company,bank,2
+Bank of Kaohsiung,bank,2
+Chailease Holding,bank,2
+Dai-ichi Life,bank,2
+Hyakugo Bank,bank,2
+JA Mitsui Leasing,bank,2
+Beijing Rural Commercial Bank,bank,2
+Huaxi Securities,bank,2
+Jiangxi Jiangnan Trust & Investment,bank,2
+Shengjing Bank,bank,2
+Averest Capital,bank,2
+Global IMC,bank,2
+MainFirst,bank,2
+Sionna Investment Managers,bank,2
+Virtus International Management,bank,2
+Impax Asset Management,bank,2
+Alpha Japan LO am,bank,2
+Anchor Capital Management Group,bank,2
+Aristotle Capital Management,bank,2
+Banca del Ceresio,bank,2
+boerse.de,bank,2
+Burgundy Asset Management,bank,2
+Chibagin Asset Management,bank,2
+Chikara Investments,bank,2
+Chilton Investment Company,bank,2
+Chugin Financial,bank,2
+Confluence Investment Management,bank,2
+Consilium Capital,bank,2
+Cronberg AG,bank,2
+Curi,bank,2
+Daishi Hokuetsu Financial Group,bank,2
+Davis Selected Advisers,bank,2
+Decalia,bank,2
+Evarich Asset Management,bank,2
+Ferique,bank,2
+FinecoBank,bank,2
+Fivestar Asset Management,bank,2
+Focus Asset Management,bank,2
+Fondsfinans,bank,2
+Fortress Fund Managers,bank,2
+Fukui Bank,bank,2
+Fukuoka Financial Group,bank,2
+Fulcrum Asset Management,bank,2
+Greiff Capital Management,bank,2
+IQAM,bank,2
+Ishiyoshi Securities,bank,2
+Kagiso Asset Management,bank,2
+Life Cycle Investment Partners,bank,2
+Luzerner Kantonalbank,bank,2
+Mawer Investment Management,bank,2
+Militia Investments,bank,2
+Miyazaki Bank,bank,2
+Oita Bank,bank,2
+Ordian Capital,bank,2
+Paradigm Asset Management (TW),bank,2
+Pecunia,bank,2
+Piquemal Houghton Investments,bank,2
+Polaris Capital Management,bank,2
+Premier Asset Management,bank,2
+Probus Pleion,bank,2
+Pruschke & Kalm,bank,2
+Sands Capital Management,bank,2
+Sawakami Asset Management,bank,2
+Simplex Financial,bank,2
+Société Générale de Banque au Liban,bank,2
+Thornburg Investment Management,bank,2
+Triasima Portfolio Management,bank,2
+"Value Partners Investments, Inc.",bank,2
+Vanneck,bank,2
+Vorarlberg Landesbank-Holding,bank,2
+VVB Vermögensverwaltung Braunenberg,bank,2
+Warburg Pincus,bank,2
+Weiler & Eberhardt Depotverwaltung,bank,2
+Alior Bank,bank,2
+Arrow Investment Advisors,bank,2
+Captor,bank,2
+Euro Pacific Asset Management,bank,2
+"Habbel, Pohlig & Partner Institut",bank,2
+Marlborough Group,bank,2
+McElvaine Value Fund,bank,2
+Mondrian Investment Partners,bank,2
+Privium Fund Management,bank,2
+Reichmuth & Co,bank,2
+Riverfield Partners,bank,2
+Samarang,bank,2
+Sit Investment Associates,bank,2
+Smart Private Managers,bank,2
+Tralucent Asset Management,bank,2
+Uni-President Assets Management,bank,2
+Wilshire Advisors,bank,2
+Absa Group,bank,2
+Aga Khan Development Network,bank,2
+Al Ahli Bank of Kuwait (ABK),bank,2
+Ashikaga Bank,bank,2
+Banca Sella,bank,2
+Banco Comercial Portugues,bank,2
+Bank of Kyoto,bank,2
+Borak,bank,2
+Cooperative Central Bank,bank,2
+Credem Group,bank,2
+NBG Group,bank,2
+Reserve Bank of India,bank,2
+SALytic Invest,bank,2
+Trea Capital Partners,bank,2
+Al-Rajhi Bank,bank,2
+Insas Group,bank,2
+M&A Securities,bank,2
+AAC Capital,bank,2
+African Export-Import Bank,bank,2
+BGFIBank,bank,2
+Compeer Financial,bank,2
+Asta Kapital Asia,bank,2
+Bank BJB,bank,2
+Amauris Invest,bank,2
+DGB Financial Group,bank,2
+Gramercy,bank,2
+Kotak Mahindra Bank,bank,2
+Mugunghwa Trust,bank,2
+Neuberger Berman Fund Management,bank,2
+Polunin Capital Partners,bank,2
+Aldira,bank,2
+Finansa Public Company,bank,2
+Pan American Life Insurance Group,bank,2
+Social Security Office,bank,2
+GIC,bank,2
+Holberg Fondsforvaltning,bank,2
+Banca Popolare di Sondrio,bank,2
+CQS,bank,2
+New Zealand Superannuation Fund,bank,2
+Patronus Partners,bank,2
+Commercial Bank of Dubai,bank,2
+AssetCo,bank,2
+Fairtree Capital,bank,2
+"Letko, Brosseau & Associates",bank,2
+Quantex,bank,2
+Ranmore Fund Management,bank,2
+RGP Investissements,bank,2
+Santa Lucia Asset Management,bank,2
+S-Bank,bank,2
+SPARX,bank,2
+Yarra Capital Management,bank,2
+Antipodes Partners,bank,2
+Diamond Hill Investment Group,bank,2
+Fiera Capital,bank,2
+Genesis Asset Management,bank,2
+Investas AG,bank,2
+OneAscent Holdings,bank,2
+Compañía Española de Financiación del Desarrollo,bank,2
+Nagelmackers,bank,2
+Polaris Investama,bank,2
+Astute Fund Management Berhad,bank,2
+Berjaya Capital Berhad,bank,2
+Capital Dynamics,bank,2
+Thesis Asset Management,bank,2
+EntrepreneurShares,bank,2
+First Metropolitan Financial Services,bank,2
+Rizal Commercial Banking,bank,2
+Tai Fung Bank,bank,2
+Yue Xiu Securities Holdings,bank,2
+ASPOMA Asset Management,bank,2
+Avic Capital,bank,2
+Bank of Guangzhou,bank,2
+Bank of Nanjing,bank,2
+Banque Eric Sturdza,bank,2
+Baoying Fund Management,bank,2
+BoDao Fund Management,bank,2
+ChangAn Funds Management,bank,2
+Changsheng Fund Management,bank,2
+China Fund Management,bank,2
+China Great Wall Asset Management Corporation,bank,2
+China Pacific Insurance Group,bank,2
+Dacheng Fund Management,bank,2
+Eastmoney Information,bank,2
+Founder Securities,bank,2
+Fujia Group,bank,2
+Goldstate Securities,bank,2
+Guotai Haitong Securities,bank,2
+Horizon Asset Management,bank,2
+Huaan Securities,bank,2
+Huatai Baoxing Fund Management,bank,2
+Huaxin Securities,bank,2
+Hubei Bank,bank,2
+Hwabao WP Fund Management,bank,2
+Jiutai Fund Management,bank,2
+Lion Fund Management,bank,2
+Maxwealth Fund Management,bank,2
+New China Asset Management,bank,2
+Orient Fund Management,bank,2
+Qianhai Alliance Asset Management,bank,2
+Redwheel,bank,2
+Shanxi Trust,bank,2
+Soochow Securities,bank,2
+Springs Capital,bank,2
+Springs Fund,bank,2
+Suzhou City Commercial Bank,bank,2
+Taikang Fund Management,bank,2
+Taikang Insurance,bank,2
+Tebon Securities,bank,2
+V-Fund Fund Management,bank,2
+Wanjia Asset Management,bank,2
+Western Securities,bank,2
+Xinhu Holding,bank,2
+Yimin Asset Management,bank,2
+Yongjin Group,bank,2
+Zheshang Fund Management,bank,2
+Zhong Ou Asset Management,bank,2
+Zhongtai Securities,bank,2
+Hayel Saeed Anam Group,group,2
+Interactive Brokers,bank,1
+Next Invest,bank,1
+Overseas Asset Management,bank,1
+United Nations Joint Staff Pension Fund,bank,1
+Alliance Of Transylvanian Saxons,bank,1
+American Contractors Insurance Group,bank,1
+Americo Life,bank,1
+Amerisafe,bank,1
+Amerisure Insurance,bank,1
+Amica Mutual Insurance,bank,1
+Areca Insurance Exchange,bank,1
+Assurity Group,bank,1
+Attorneys' Title Insurance Fund,bank,1
+Avera Health Plans,bank,1
+Blue Cross Blue Shield of North Carolina,bank,1
+Buckeye Insurance Group,bank,1
+CMS Financial Services Corporation,bank,1
+Conventus Inter-Insurance Exchange,bank,1
+Correll Insurance Group,bank,1
+EmblemHealth,bank,1
+Farmers & Merchants Mutual Fire Insurance,bank,1
+Fire Districts of New York Mutual,bank,1
+Guzman & Co,bank,1
+Hanys Member Hospitals Self-Insurance Trust,bank,1
+Illinois Mutual Life Insurance,bank,1
+Jewelers Mutual Insurance,bank,1
+Luba Workers Comp,bank,1
+Mercury General,bank,1
+Mutual Beneficial Association,bank,1
+Ontario Teachers' Pension Plan,bank,1
+Pacific Heights Asset Management,bank,1
+Pennsylvania Lumbermens Mut Ins,bank,1
+Pensioenfonds Zorg en Welzijn (PFZW),bank,1
+Pinnacol Assurance,bank,1
+Polish Roman Catholic Union of America,bank,1
+Sanford Health,bank,1
+Selected Funeral & Life Insurance,bank,1
+Shank Williams Cisneros & Co,bank,1
+TiptreeFinancial,bank,1
+Tower Group International,bank,1
+Trinity Risk Solutions,bank,1
+Fountain City Investment,bank,1
+PT Renaissance Capital,bank,1
+Chaussier Gestion,bank,1
+Groupe Finaris,bank,1
+Mandarine Gestion,bank,1
+Moneta Asset Management,bank,1
+Montaigne Capital,bank,1
+Sunny Asset Management,bank,1
+Tiepolo,bank,1
+Acuity Insurance,bank,1
+American Capital Partners,bank,1
+ARX Holding,bank,1
+Bondex Insurance,bank,1
+Boston Medical Center Healthnet Plan,bank,1
+Chesapeake Employers' Insurance,bank,1
+Cigna,bank,1
+Citizens Fidelity Insurance,bank,1
+Continental,bank,1
+COPIC Trust,bank,1
+Coverys Group,bank,1
+Croatian Fraternal Union of America,bank,1
+Dryden Mutual Insurance,bank,1
+Eastern Alliance Ins Co,bank,1
+ELCO Mutual Life & Annuity,bank,1
+Farm Credit,bank,1
+Farmers & Mechanics Mutual Insurance,bank,1
+Foresters Financial,bank,1
+Fortitude Family Office,bank,1
+General Electric,bank,1
+Group 1001,bank,1
+Hamburg Commercial Bank,bank,1
+Hawaii Employers Mutual Insurance,bank,1
+Henry Ford Health System,bank,1
+La Medical Mutual Insurance,bank,1
+ManhattanLife Assurance,bank,1
+MISSOURI FARM BUREAU,bank,1
+New Seasons Security Services,bank,1
+Oxford Health Insurance,bank,1
+Royal Neighbors Of America,bank,1
+Sentinel Security Life Insurance,bank,1
+Sindicato de Aseguradores de Impericia Médica (SIMED),bank,1
+Society Insurance,bank,1
+STICO Mutual,bank,1
+The LDS Group,bank,1
+ALICO Services,bank,1
+American Life Financial,bank,1
+Attorneys' Liability Assurance Society (ALAS),bank,1
+Auto Club Group,bank,1
+Bayview Asset Management,bank,1
+Berner Kantonalbank,bank,1
+Blue Cross Blue Shield of Alabama,bank,1
+Cameron Enterprises,bank,1
+Careoregon,bank,1
+Caterpillar,bank,1
+Central Group,bank,1
+Chandler Group,bank,1
+Church Mutual Insurance Company,bank,1
+CompSource Mutual,bank,1
+Corporacion Ficohsa,bank,1
+Dow Chemical Company,bank,1
+Farmers Union Mutual Insurance,bank,1
+Florida Peninsula Holdings,bank,1
+Ford Motor Credit Company,bank,1
+Georgia Farm Bureau Federation Holding Company,bank,1
+Government Personnel Mutual Life,bank,1
+GPM Life,bank,1
+Guggenheim Partners,bank,1
+Harvard Pilgrim Health Care,bank,1
+HealthPartners,bank,1
+Hereford Insurance Company,bank,1
+Keystone National Group,bank,1
+Londen Insurance Group,bank,1
+Munsterlandische Bank Thie & Co,bank,1
+Mutual Insurance Company Of Az,bank,1
+National Western Life Group,bank,1
+NJM Insurance Group,bank,1
+North Carolina Farm Bureau,bank,1
+PEMCO,bank,1
+Physicians Insurance A Mutual Gp,bank,1
+Preferred Mutual Insurance,bank,1
+Presidio Investors,bank,1
+PRI Investments,bank,1
+Prime Holdings Insurance Services,bank,1
+Riverstone Investment Group,bank,1
+Rural Mutual Insurance,bank,1
+SAIF,bank,1
+Signal Iduna Group,bank,1
+SPJST,bank,1
+Texas Children's Health Plan,bank,1
+Tuscarora Wayne Mutual Group,bank,1
+Unified Life Insurance Company,bank,1
+"United Educators Insurance, a Reciprocal Risk Retention Group",bank,1
+Unity Financial Life Insurance,bank,1
+University of Pittsburgh Medical Center,bank,1
+Vericity,bank,1
+Vermont Mutual Insurance Group,bank,1
+Bank of Panhsin,bank,1
+China Silk Road International Capital,bank,1
+Entie Commercial Bank,bank,1
+Hachijuni Nagano Bank,bank,1
+Hatton National Bank,bank,1
+Longreach Group,bank,1
+Mebuki Financial Group,bank,1
+National Development Bank,bank,1
+O-Bank,bank,1
+Bank of Chengdu,bank,1
+Bank of Zhengzhou,bank,1
+Guangzhou Rural Commercial Bank,bank,1
+Huarong Xiangjiang Bank,bank,1
+Jiangsu Jiangnan Rural Commercial Bank,bank,1
+Jiangxi Bank,bank,1
+Jinshang Bank,bank,1
+Luoyang Commercial Bank,bank,1
+Zhongyuan Bank,bank,1
+Hyundai Motor Securities,bank,1
+Meritz Financial Group,bank,1
+King Fortune Trust,bank,1
+Carmignac Gestion,bank,1
+GaoTeng Global Asset Management,bank,1
+ISDA Fraternal Association,bank,1
+Reuss Private Group,bank,1
+The National Bank of Indianapolis,bank,1
+Bank Yudha Bhakti,bank,1
+Victoria Investama,bank,1
+FMO,bank,1
+Achilles Pension Fund,bank,1
+American Agricultural Insurance Company,bank,1
+ATP Group,bank,1
+Blue Cross Blue Shield of Wyoming,bank,1
+Canopy Partners,bank,1
+Eagle Global Advisors,bank,1
+Elo Mutual Pension Insurance Company,bank,1
+Hyogo-ken Shinren,bank,1
+Ilmarinen,bank,1
+Philadelphia Contributionship,bank,1
+Senshu Ikeda Holdings,bank,1
+Tokushima Taisho Bank,bank,1
+Yutaka Trusty Securities,bank,1
+Investindo Nusantara Sekuritas,bank,1
+Access Bank Group,bank,1
+Altair Finance Asset Management,bank,1
+AMF Capital,bank,1
+Banco de Chile,bank,1
+Banco Latinoamericano de Comercio Exterior,bank,1
+Bank of Saga,bank,1
+Banque Cantonale de Genève,bank,1
+Caixa Geral de Depósitos,bank,1
+Caja de Ingenieros,bank,1
+CIC Partners,bank,1
+Citizens Financial Group,bank,1
+Comerica,bank,1
+Diagonal Asset Management,bank,1
+Dom Finance,bank,1
+Edouard 7 Gestion Privee,bank,1
+Eichler & Mehlert,bank,1
+Farm Credit Canada,bank,1
+Fuyo General Lease,bank,1
+Runte.Weil & Alt,bank,1
+Shizuoka Bank,bank,1
+Solventis,bank,1
+St. Galler Kantonalbank,bank,1
+Tailor AM,bank,1
+Unicaja Banco,bank,1
+Wallrich Wolf Asset Management,bank,1
+Weisshorn Asset Management,bank,1
+Copeland Capital Management,bank,1
+Great Gray Group,bank,1
+Hanwha Life Insurance,bank,1
+Apex Group,bank,1
+Chelverton Asset Management,bank,1
+Downing Corporate Finance,bank,1
+Efficient Group,bank,1
+Harwood Capital Management,bank,1
+James Brearley & Sons,bank,1
+McInroy & Wood,bank,1
+Montanaro Asset Management,bank,1
+Odey Asset Management,bank,1
+Teviot Partners,bank,1
+Titan Wealth Holdings,bank,1
+Trading 212 Group,bank,1
+African Development Bank,bank,1
+AgChoice Farm Credit,bank,1
+Chapman and Cutler,bank,1
+Green Stone,bank,1
+Hokkoku Bank,bank,1
+Bank Jatim,bank,1
+Bank Pembangunan Daerah - Jawa Timur,bank,1
+Easternmed Asset Management Services,bank,1
+IDB Group,bank,1
+iM Financial Group,bank,1
+KDB Bank,bank,1
+Korea Asset Investment Securities,bank,1
+KTB Investment & Securities,bank,1
+Oakland Financial,bank,1
+Symmetry Partners,bank,1
+Syz Group,bank,1
+Taekwang Group,bank,1
+GS&P Group,bank,1
+GVC Gaesco Group,bank,1
+MRB Fund Partners,bank,1
+Dah Sing Financial,bank,1
+Philippine National Bank,bank,1
+Union Bank of the Philippines,bank,1
+Bank Perkreditan Rakyat,bank,1
+Amanah Raya Berhad,bank,1
+Yayasan Pok Dan Kassim,bank,1
+Tiger Brokers,bank,1
+Malaysian Timber Industry Board,bank,1
+BLS Capital,bank,1
+Government Pension Fund Norway (GPFN),bank,1
+Hotchkis & Wiley Capital Management,bank,1
+Jendarata Bernam Provident Fund,bank,1
+United Plantations Workers Benevolent Retirement Scheme,bank,1
+Kefkong,bank,1
+SG Trading Solutions,bank,1
+Summit Global Investments,bank,1
+Shenyin & Wanguo Securities,bank,1
+Zhejiang Communication Investment,bank,1
+Kencana Agri Group,group,1

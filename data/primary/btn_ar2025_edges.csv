@@ -1,0 +1,27 @@
+source_id,target_id,type,source_url,source_type,confidence,role,start_date,end_date,pct,amount_usd,note
+co_danantara_am,bank_btn,owns,doc:btn_ar_2025#p205,annual_report,high,Series B shareholder,2025,,60.00,,8420666647 shares at 2025-12-31 (p205); Republic of Indonesia held 60.00% at 2025-01-01 and keeps 1 share (p203)
+gov_danantara,bank_btn,controls,doc:btn_ar_2025#p414,annual_report,high,new controlling shareholder (alongside PT Danantara Asset Management),2025,,,,AR p414 names BPI Danantara and PT Danantara Asset Management as new controlling shareholders; the AR does not state that BPI Danantara controls the asset-management company
+p_suryo_utomo,bank_btn,board_seat,doc:btn_ar_2025#p168,annual_report,high,President Commissioner,2025-03-26,,,,Appointed AGM 2025-03-26; OJK effective 2025-06-26
+p_dwi_ary_purnomo,bank_btn,board_seat,doc:btn_ar_2025#p168,annual_report,high,Vice President Commissioner,2025-03-26,2026-02-25,,,Resigned on appointment to the board of directors of PT Asuransi Kerugian Jasa Raharja
+p_fahri_hamzah,bank_btn,board_seat,doc:btn_ar_2025#p152,annual_report,high,Commissioner,2025-03-26,,,,Appointed AGM 2025-03-26; OJK effective 2025-12-17; term to AGM 2030
+p_ida_nuryanti,bank_btn,board_seat,doc:btn_ar_2025#p168,annual_report,high,Independent Commissioner,2025-03-26,,,,OJK effective 2025-10-09
+p_pietra_paloh,bank_btn,board_seat,doc:btn_ar_2025#p154,annual_report,high,Independent Commissioner,2025-03-26,,,,OJK effective 2025-08-15; chairs Audit Committee from June 2025; term to AGM 2030
+p_panangian_simanungkalit,bank_btn,board_seat,doc:btn_ar_2025#p168,annual_report,high,Independent Commissioner,2025-03-26,,,,OJK effective 2025-08-15
+p_didyk_choiroel,bank_btn,board_seat,doc:btn_ar_2025#p168,annual_report,high,Commissioner,2026-01-07,,,,Appointed EGM 2026-01-07; fit and proper test pending at time of report
+p_chandra_m_hamzah,bank_btn,board_seat,doc:btn_ar_2025#p157,annual_report,high,President Commissioner/Independent,2019-11-27,2025-03-26,,,First appointed by GMS 2019-11-27; OJK effective 2020-05-04; dismissed at AGM 2025-03-26
+p_iqbal_latanro,bank_btn,board_seat,doc:btn_ar_2025#p158,annual_report,high,Vice President Commissioner/Independent,2021-03-10,2025-03-26,,,First appointed by GMS 2021-03-10; OJK effective 2021-09-06; dismissed at AGM 2025-03-26
+p_armand_b_arief,bank_btn,board_seat,doc:btn_ar_2025#p159,annual_report,high,Independent Commissioner,2019-11-27,2025-03-26,,,First appointed by GMS 2019-11-27; OJK effective 2020-05-14; dismissed at AGM 2025-03-26
+p_sentot_a_sentausa,bank_btn,board_seat,doc:btn_ar_2025#p160,annual_report,high,Independent Commissioner,2022-03-02,2025-03-26,,,First appointed by GMS 2022-03-02; OJK effective 2022-08-08; dismissed at AGM 2025-03-26
+p_adi_sulistyowati,bank_btn,board_seat,doc:btn_ar_2025#p161,annual_report,high,Independent Commissioner,2024-03-06,2025-03-26,,,First appointed by GMS 2024-03-06; OJK effective 2024-10-07; dismissed at AGM 2025-03-26
+p_bambang_widjanarko,bank_btn,board_seat,doc:btn_ar_2025#p162,annual_report,high,Independent Commissioner,2024-03-06,2025-03-26,,,First appointed by GMS 2024-03-06; OJK effective 2024-10-07; dismissed at AGM 2025-03-26
+p_andin_hadiyanto,bank_btn,board_seat,doc:btn_ar_2025#p163,annual_report,high,Commissioner,2019-11-27,2025-03-26,,,First appointed by GMS 2019-11-27; OJK effective 2020-07-10; dismissed at AGM 2025-03-26
+p_herry_trisaputra_zuna,bank_btn,board_seat,doc:btn_ar_2025#p164,annual_report,high,Commissioner,2022-03-02,2025-03-26,,,First appointed by GMS 2022-03-02; OJK effective 2022-10-11; dismissed at AGM 2025-03-26
+p_himawan_arief_sugoto,bank_btn,board_seat,doc:btn_ar_2025#p165,annual_report,high,Commissioner,2022-03-02,2025-03-26,,,First appointed by GMS 2022-03-02; OJK effective 2022-10-03; dismissed at AGM 2025-03-26
+p_fahri_hamzah,gov_cabinet,held_office,doc:btn_ar_2025#p152,annual_report,high,Vice Minister (housing portfolio),2024-10,,,,AR p152 says Vice Minister of Public Works and Public Housing; the same AR (p156) and news use Ministry of Housing and Settlement Areas for that portfolio; role recorded neutrally
+p_fahri_hamzah,gov_dpr,held_office,doc:btn_ar_2025#p152,annual_report,high,Member; Vice Chairman 2014-2019,2004,2019,,,
+p_suryo_utomo,gov_ministry_finance,held_office,doc:btn_ar_2025#p150,annual_report,high,"Head, Agency for Technology, Information and Financial Intelligence",2025-05,,,,
+p_suryo_utomo,gov_ministry_finance,held_office,doc:btn_ar_2025#p150,annual_report,high,Director General of Taxes,,2025-05,,,
+p_dwi_ary_purnomo,gov_bp_bumn,held_office,doc:btn_ar_2025#p151,annual_report,high,Deputy for Finance and Risk Management,2025-05,,,,"AR dates the post from May 2025, before the SOE ministry became BP BUMN in Oct 2025"
+p_panangian_simanungkalit,gov_ministry_pkp,held_office,doc:btn_ar_2025#p155,annual_report,high,"Member, Housing Task Force",2024-05,,,,
+p_didyk_choiroel,gov_ministry_pkp,held_office,doc:btn_ar_2025#p156,annual_report,high,Secretary General,2025-01,,,,
+p_herry_trisaputra_zuna,gov_ministry_pupr,held_office,doc:btn_ar_2025#p164,annual_report,high,Road and Bridge Management Expert,2024,,,,
