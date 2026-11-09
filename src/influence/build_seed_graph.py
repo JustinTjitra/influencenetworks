@@ -358,6 +358,21 @@ def main() -> int:
                       source_url="https://finansial.bisnis.com/read/20260128/90/1947797/bank-mandiri-bmri-tidak-lagi-ditopang-bsi-segini-penurunan-asetnya",
                       source_type="news", confidence="medium"))
 
+    # Supplementary seed files: rows already in node/edge form (listed entities and
+    # their group membership, pre-Danantara state shareholdings). Same evidence rules
+    # as the other seeds: the source type is read from the URL and caps confidence.
+    for npath in sorted((SEED / "supplement").glob("*_nodes.csv")):
+        for _, r in pd.read_csv(npath, dtype=str).fillna("").iterrows():
+            add_node(r["id"], r["type"], r["name"], r["aliases"])
+    for epath in sorted((SEED / "supplement").glob("*_edges.csv")):
+        for r in pd.read_csv(epath, dtype=str).fillna("").to_dict("records"):
+            stype = source_type_for(r["source_url"])
+            if r["type"] == "family_of" and cap_confidence(r["confidence"], stype) == "low":
+                warnings.append(f"skipping low-confidence family edge {r['source_id']}->{r['target_id']}")
+                continue
+            edges.append({**r, "source_type": stype,
+                          "confidence": cap_confidence(r["confidence"], stype)})
+
     # Primary-source extractions (annual reports etc.) supersede seed edges with the
     # same (source, target, type). A primary ownership edge into a bank also
     # supersedes the seed-level gov_danantara -> bank edge.

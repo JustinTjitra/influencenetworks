@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import calendar
 import csv
 from datetime import date
 from pathlib import Path
@@ -14,16 +15,25 @@ from .schema import (
 )
 
 
-def _parse_date(s: str) -> Optional[date]:
+def _parse_date(s: str, end: bool = False) -> Optional[date]:
+    """Parse YYYY, YYYY-MM or YYYY-MM-DD.
+
+    A start date given only to the year or month is read as the first day of that
+    period; an end date (end=True) as the last day. Both are the generous reading:
+    an edge "2019 to 2024" is active throughout 2024, and a financing edge dated
+    2015 to 2015 is active for the whole of 2015 rather than for one day.
+    """
     s = (s or "").strip()
     if not s:
         return None
-    # accept YYYY, YYYY-MM, YYYY-MM-DD
     parts = s.split("-")
     y = int(parts[0])
-    m = int(parts[1]) if len(parts) > 1 else 1
-    d = int(parts[2]) if len(parts) > 2 else 1
-    return date(y, m, d)
+    if len(parts) == 1:
+        return date(y, 12, 31) if end else date(y, 1, 1)
+    m = int(parts[1])
+    if len(parts) == 2:
+        return date(y, m, calendar.monthrange(y, m)[1]) if end else date(y, m, 1)
+    return date(y, m, int(parts[2]))
 
 
 def _opt_float(s: str) -> Optional[float]:
@@ -73,7 +83,7 @@ def load_edges(path: Path, nodes: dict[str, Node],
                     confidence=Confidence(row["confidence"].strip()),
                     role=(row.get("role") or "").strip() or None,
                     start_date=_parse_date(row.get("start_date", "")),
-                    end_date=_parse_date(row.get("end_date", "")),
+                    end_date=_parse_date(row.get("end_date", ""), end=True),
                     pct=_opt_float(row.get("pct", "")),
                     amount_usd=_opt_float(row.get("amount_usd", "")),
                     note=(row.get("note") or "").strip() or None,
