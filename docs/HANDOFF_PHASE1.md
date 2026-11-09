@@ -18,13 +18,12 @@ the data row.
    Agri, Wilmar, First Resources, Bumitama) are a later robustness check with `^STI`,
    not part of Phase 1.
 2. **Danantara's launch (2025-02-24) gets a pre-registered sign**, not the ambiguous
-   bucket. Proposed sign, pending a one-word confirmation from the user before prices
-   are downloaded: **negative for firms with `state_own` > 0**, on the reasoning that
-   the launch moved dividend rights and control from the Finance Ministry to a new fund
-   with less parliamentary oversight, which minority shareholders should price as a
-   governance cost. Record the alternative (positive: cheaper capital, protection) in
-   `prereg.md` as the rejected reading, so the choice is auditable. If the user says
-   "positive", flip it; either way it is fixed before step 4.
+   bucket. **Confirmed by the user on 2026-11-09: negative for firms with
+   `state_own` > 0**, on the reasoning that the launch moved dividend rights and
+   control from the Finance Ministry to a new fund with less parliamentary oversight,
+   which minority shareholders should price as a governance cost. Record the
+   alternative (positive: cheaper capital, protection) in `prereg.md` as the rejected
+   reading, so the choice is auditable. This is fixed; do not ask again.
 3. **Monitor deployment: password-protected Streamlit Community Cloud.** Not part of
    this handoff's tasks, but it means no secrets, no raw Forests & Finance rows, and no
    personal data beyond public filings may ever be committed, because the deploy pulls
@@ -94,8 +93,8 @@ Must contain, in this order:
 10. What will be reported regardless of result (all of the above, nulls included).
 
 Commit `prereg.md` with the two CSVs, push, and record the commit hash at the top of
-the file in a follow-up commit. Tell the user it is done and ask for the Danantara
-confirmation if not yet received.
+the file in a follow-up commit. Tell the user it is done and give the price-download
+command.
 
 ## Task 2: Connection measures (`src/influence/connections/`)
 
