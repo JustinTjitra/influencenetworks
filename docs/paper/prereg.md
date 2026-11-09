@@ -1,6 +1,6 @@
 # Pre-registration: political connections, stakeholder shocks and firm value in Indonesia (Phase 1)
 
-Registration commit: pending
+Registration commit: `dbcbb3ca7cf0fc3a350fb374ef5022df18f5c84b`
 
 The line above is filled in by a follow-up commit with the hash of the commit that
 first added this file together with `data/mappings/tickers.csv`, `data/events/events.csv`
