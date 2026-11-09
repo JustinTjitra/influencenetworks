@@ -5,3 +5,5 @@ data/raw/docs/
 data/raw/ocr_*/
 data/raw/news/
 data/raw/financing/
+data/raw/prices/
+data/processed/results_synthetic/
