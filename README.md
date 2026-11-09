@@ -4,6 +4,12 @@ Maps **documented** relationships between Indonesian politicians, parties, palm 
 groups, banks and media owners, then tests whether outlets cover entities in their
 owner's network differently from unlinked entities.
 
+> **Current design.** The project's primary goal is now an event study of political
+> connections and firm value, with a stakeholder exposure monitor on top; see
+> `docs/DESIGN.md`. The pre-registration is `docs/paper/prereg.md`, the current state is
+> `docs/phase1_status.md`, and `docs/RUNNING.md` section 5 has the commands. The
+> media-coverage question below is the original framing and remains a later module.
+
 ## Research question
 
 Do Indonesian news outlets cover companies and politicians inside their owner's
