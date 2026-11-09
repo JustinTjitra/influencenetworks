@@ -1,0 +1,25 @@
+event_id,date,type,tested_measure,target_party,sign,anticipation_flag,confounder_flag,n_firms,n_treated,n_treated_clusters,n_untreated,n_untreated_clusters,treated_tickers,enough_clusters,main_test
+ev_cpo_export_ban,2022-04-22,sector_policy,all,,+,0,0,11,0,0,11,10,,0,0
+ev_cpo_export_ban_lifted,2022-05-19,sector_policy,all,,+,0,0,11,0,0,11,10,,0,0
+ev_cpo_levy_zero,2022-07-16,sector_policy,all,,+,0,0,11,0,0,11,10,,0,0
+ev_nasdem_anies,2022-10-03,coalition,all,party_nasdem,-,0,0,34,0,0,34,26,,0,0
+ev_aso_jabodetabek,2022-11-02,sector_policy,all,,+,1,0,11,6,2,5,3,ABBA BMTR IPTV MARI MNCN MSIN,0,0
+ev_golkar_pan_prabowo,2023-08-13,coalition,all,party_golkar,+,0,0,34,4,2,30,24,BMRI MDIA UNSP VIVA,0,0
+ev_publisher_rights,2024-02-20,sector_policy,all,,+,0,1,11,6,2,5,3,ABBA BMTR IPTV MARI MNCN MSIN,0,0
+ev_airlangga_resigns,2024-08-11,coalition,all,party_golkar,ambiguous,0,1,34,4,2,30,24,BMRI MDIA UNSP VIVA,0,0
+ev_perindo_joins_prabowo,2024-08-15,coalition,all,party_perindo,+,0,1,34,4,1,30,25,BMTR IPTV MNCN MSIN,0,0
+ev_eudr_delay_proposed,2024-10-02,sector_policy,all,,0,0,0,11,0,0,11,10,,0,0
+ev_inauguration_cabinet,2024-10-20,coalition,all,,+,1,1,34,11,7,23,19,ABBA BBNI BBRI BBTN BMRI BMTR BRIS IPTV MARI MNCN MSIN,1,0
+ev_danantara_postponed,2024-11-06,state_governance,state_own,,+,0,1,34,5,5,29,21,BBNI BBRI BBTN BMRI BRIS,1,0
+ev_danantara_date_announced,2025-02-13,state_governance,state_own,,-,0,0,34,5,5,29,21,BBNI BBRI BBTN BMRI BRIS,1,1
+ev_danantara_launch,2025-02-24,state_governance,state_own,,-,1,1,34,5,5,29,21,BBNI BBRI BBTN BMRI BRIS,1,0
+ev_kopdes_himbara,2025-03-03,sector_policy,state_own,,ambiguous,0,1,12,5,5,7,7,BBNI BBRI BBTN BMRI BRIS,1,0
+ev_bank_shares_to_danantara,2025-03-24,state_governance,state_own,,-,1,1,34,5,5,29,21,BBNI BBRI BBTN BMRI BRIS,1,0
+ev_cpo_levy_10pct,2025-05-14,sector_policy,all,,+,0,0,11,1,1,10,9,UNSP,0,0
+ev_agrinas_handover,2025-07-09,sector_policy,all,,+,0,0,11,1,1,10,9,UNSP,0,0
+ev_mk_wamen_signal,2025-07-17,governance,board_office,,-,0,0,34,3,3,31,23,BBRI BBTN BMRI,1,1
+ev_mk_wamen_ruling,2025-08-28,governance,board_office,,-,0,1,34,3,3,31,23,BBRI BBTN BMRI,1,0
+ev_reshuffle_finance,2025-09-08,coalition,all,,ambiguous,0,1,34,14,8,20,18,ABBA BBNI BBRI BBTN BMRI BMTR BRIS IPTV MARI MDIA MNCN MSIN UNSP VIVA,1,0
+ev_state_cash_placement,2025-09-10,sector_policy,state_own,,+,0,1,12,5,5,7,7,BBNI BBRI BBTN BMRI BRIS,1,0
+ev_erick_thohir_moved,2025-09-17,coalition,group_conn,,ambiguous,0,1,34,9,3,25,23,ABBA BMTR IPTV MARI MDIA MNCN MSIN UNSP VIVA,1,0
+ev_soe_ministry_to_agency,2025-09-26,state_governance,state_own,,ambiguous,0,0,34,5,5,29,21,BBNI BBRI BBTN BMRI BRIS,1,0
