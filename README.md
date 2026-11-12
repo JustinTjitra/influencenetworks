@@ -1,4 +1,4 @@
-# Indonesian Influence Network
+# WIP - Indonesian Political Influence Network
 
 A sourced, time-bound map of **documented** relationships between Indonesian
 politicians, parties, state bodies and listed firms (banks, palm oil groups and media
