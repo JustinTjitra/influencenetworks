@@ -16,10 +16,6 @@ Read `docs/paper/prereg.md` first; this file says what exists and what to do nex
 
 Graph after this phase: 186 nodes, 374 edges, 0 rejected.
 
-**Danantara sign, as confirmed:** negative for firms with `state_own` > 0. Rejected
-alternative (positive) is recorded in the pre-registration.
-
-**No price data has been downloaded, read or looked at.**
 
 ## What you run locally
 

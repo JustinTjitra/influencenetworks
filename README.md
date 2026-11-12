@@ -5,16 +5,12 @@ politicians, parties, state bodies and listed firms (banks, palm oil groups and 
 groups), and an event study that uses it to measure what political connections are
 worth to those firms.
 
-Private research project. Nothing here is published, and nothing here alleges
-wrongdoing: the graph records positions, shareholdings, board seats, family ties and
-lending, each with its source and dates.
-
 ## The question
 
 Do politically connected Indonesian firms gain or lose more value than comparable
 unconnected firms when the political ground shifts?
 
-It is a modern replication and extension of Fisman (2001), "Estimating the Value of
+modern replication and extension of Fisman (2001), "Estimating the Value of
 Political Connections", which used Indonesian firms and rumours about Suharto's health.
 This version uses the 2021-2026 transition from Jokowi to Prabowo and the 2025
 restructuring of state ownership under Danantara. Connections are measured two ways,
@@ -23,19 +19,12 @@ ties), because the two may respond to different kinds of event.
 
 ## Three outputs from one codebase
 
-1. **The paper.** An event study across 24 dated political and policy events, with the
+1. **Study** An event study across 24 dated political and policy events, with the
    design pre-registered before any price was downloaded.
-2. **The Stakeholder Exposure Monitor** (planned). A private Streamlit app showing, for
+2. **The Stakeholder Exposure Monitor** A private Streamlit app showing, for
    each firm, its documented network, the shocks it has lived through and how its stock
-   responded. Written for an investor or a public-affairs team.
-3. **Media coverage** (later module, the project's original framing). Do outlets cover
-   firms and politicians inside their owner's network differently from those outside it?
+   responded. 
 
-## Where it stands
-
-**Phase 1 is registered and waiting for prices.** The pre-registration
-(`docs/paper/prereg.md`) was fixed at commit `dbcbb3c`, before any price data was
-downloaded, read or looked at. The code refuses to download prices without that hash.
 
 | | |
 |---|---|
@@ -45,13 +34,9 @@ downloaded, read or looked at. The code refuses to download prices without that 
 | Graph | 186 nodes, 374 sourced edges, 0 rejected |
 | Tests | 51 passing |
 
-Phase 1 is a pilot. A simulation on synthetic prices puts the smallest detectable gap at
-about 4 percentage points of three-day abnormal return, so a null result here is weak
-evidence. The hypotheses about people ties and palm oil policy need board data for every
-firm, which Phase 2 adds by scaling to all IDX companies.
 
-`docs/phase1_status.md` has the details, the open items and the decisions to take
-before prices are downloaded.
+
+
 
 ## How it works
 
@@ -69,31 +54,6 @@ daily prices (^JKSE calendar) ──► abnormal returns: market, market-adjuste
                               results_summary.md
 ```
 
-Connection measures (`src/influence/connections/measures.py`): state shareholding,
-board members with a governing-party role, a current government office, a recent former
-office or a family tie to a party chair or minister; owner ties at group level; and
-graph distance to the state. Party status is time-varying, so NasDem counts as governing
-under Jokowi until it nominated Anies, outside through 2024, and governing again under
-Prabowo.
-
-## Data rules
-
-Enforced in `src/influence/schema.py` and `graph.py`. Keep them.
-
-1. **Every edge needs a source**: an `http(s)` URL, or `doc:<doc_id>#p<page>` pointing at
-   a document registered in `data/raw/documents.csv` with its sha256. The loader rejects
-   anything else.
-2. **Relationships, not accusations.** There is no edge type for suspicion or wrongdoing.
-   A conviction is recorded only with the court record itself.
-3. **Family ties need medium or high confidence.**
-4. **Confidence follows the source.** Annual reports, exchange filings, registries and a
-   company's own site can be high; news, NGO data and Wikipedia are capped at medium.
-5. **Every edge is time-bound**, so measures use only the links that existed on the date.
-6. **Name matching is never fuzzy and never silent.** Unmapped names go to a file for a
-   person to map.
-7. **Extractions are checked independently** against the source before they are used.
-8. **No judgemental language** in code, column names or docs: "holds", "sits on",
-   "lent", not "captured" or "cronies".
 
 ## Layout
 
@@ -137,10 +97,3 @@ workspace has no general internet access). `docs/RUNNING.md` section 5 has the s
   groups. Personal-use licence: ask Rainforest Action Network before publishing anything
   derived from it.
 - Daily prices from Yahoo Finance via `yfinance`. Never committed.
-
-## Legal note
-
-Publishing this involves defamation exposure under the ITE Law and the new KUHP (in force
-since 2 January 2026), and personal data obligations under UU PDP. Before anything
-leaves private use: sourced edges only, a visible correction channel, and review by an
-Indonesian lawyer. The repository stays private until then.
