@@ -94,6 +94,5 @@ workspace has no general internet access). `docs/RUNNING.md` section 5 has the s
   the first primary-source extraction.
 - Reputable Indonesian and international press for party roles, offices and events.
 - [Forests & Finance](https://forestsandfinance.org/data/) for bank lending to palm oil
-  groups. Personal-use licence: ask Rainforest Action Network before publishing anything
-  derived from it.
-- Daily prices from Yahoo Finance via `yfinance`. Never committed.
+  groups
+- Daily prices from Yahoo Finance via `yfinance`
