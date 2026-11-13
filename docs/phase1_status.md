@@ -50,17 +50,37 @@ prices are on your disk the registered files cannot change.
   one palm group with any tie and one or two clusters per party. Those events need board
   data for all 34 firms, which is Module B work.
 
-## Decide first (each is a pre-registration amendment if you change it)
+## Decided 2026-11-13
 
-1. **Primary specification.** I registered event-by-sector fixed effects as the one the
-   decision rule uses, and report DESIGN.md's firm-effects version beside it. With firm
-   effects the coefficient is not identified for a single event or a set of events with
-   one sign. If you want the DESIGN.md version as primary, amend section 7.
-2. **Whether to add board rosters before downloading.** Extracting commissioners and
-   directors for the 34 firms from 2023-2025 annual reports would let coalition and palm
-   events into the main test. It must happen before the download.
-3. **Whether Phase 1's decision rule should lean on the placebo alone** given two event
-   clusters, or stay as the build notes wrote it.
+1. **Primary specification: B, event-by-sector fixed effects**, with A (event and firm
+   fixed effects, as DESIGN.md is written) reported beside it in every table. This is
+   what the pre-registration already says (section 7); no amendment needed.
+2. **Board rosters will be added before any price is downloaded.** Commissioners and
+   directors for the 34 firms, from the 2024 and 2025 annual reports, extracted with page
+   citations and checked independently. This changes which events are in the main test,
+   so it goes into a pre-registration amendment (section 14) with a new registration
+   hash.
+3. **The decision rule rests on the placebo.** Wording for the same amendment:
+
+   > A result holds only if the stacked estimate under specification B, window [-1,+1],
+   > 0/1 connection (1) has the registered sign under all three return models, and
+   > (2) has a placebo p-value below 0.05 under all three. The two-way clustered p-value
+   > is reported but plays no part in the decision, because with few event dates it is
+   > unreliable.
+
+   With 200 draws the smallest possible placebo p-value is 1/201, so "below 0.05" means
+   the real estimate beats at least 191 of the 200 pseudo-dates.
+
+Items 2 and 3 are one amendment, written once the rosters are extracted, so the
+registration hash changes once. **Do not download prices until that amendment is
+committed and its hash recorded.**
+
+### What is needed for item 2
+
+The 2024 and 2025 annual reports of the 34 tickers in `data/mappings/tickers.csv`, as
+text PDFs (not scans), each with its sha256 (`sha256sum *.pdf`). Order: BBRI, BMRI, BBNI,
+BRIS first, then palm oil, then media. The same reports give shares outstanding, total
+assets and total liabilities for `data/mappings/fundamentals.csv`.
 
 ## Open items (also in section 13 of the pre-registration)
 
