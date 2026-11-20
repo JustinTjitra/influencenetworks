@@ -22,7 +22,7 @@ tool exists. Rules are in `tasks/README.md`; the plan is `docs/PROJECT_PLAN.md`.
 | T15 | Monitor data layer | sonnet | - | done |
 | T16 | Monitor exposure profile tables | sonnet | T15 | done |
 | T17 | Monitor event timeline table | sonnet | T15 | done |
-| T18 | Monitor lenders table | sonnet | T15 | todo |
+| T18 | Monitor lenders table | sonnet | T15 | done |
 | T19 | Monitor firm page | sonnet | T16 T17 T18 | todo |
 | T20 | Monitor sector page | sonnet | T19 | todo |
 | T21 | Neutral-language check | haiku | - | todo |
