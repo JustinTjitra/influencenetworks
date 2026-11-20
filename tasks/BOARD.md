@@ -21,7 +21,7 @@ tool exists. Rules are in `tasks/README.md`; the plan is `docs/PROJECT_PLAN.md`.
 | T14 | Exchange profile parser | sonnet | U04 | blocked:U04 |
 | T15 | Monitor data layer | sonnet | - | done |
 | T16 | Monitor exposure profile tables | sonnet | T15 | done |
-| T17 | Monitor event timeline table | sonnet | T15 | todo |
+| T17 | Monitor event timeline table | sonnet | T15 | done |
 | T18 | Monitor lenders table | sonnet | T15 | todo |
 | T19 | Monitor firm page | sonnet | T16 T17 T18 | todo |
 | T20 | Monitor sector page | sonnet | T19 | todo |
