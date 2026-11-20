@@ -9,3 +9,4 @@ data/raw/prices/
 data/raw/idx_profiles/
 data/processed/results_synthetic/
 *.egg-info/
+.streamlit/secrets.toml
