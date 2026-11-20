@@ -29,7 +29,9 @@ nothing but `CLAUDE.md` and the brief, so the brief must be complete on its own.
 
 1. `git pull --ff-only origin main`, then `pytest -q`. If tests fail on a clean checkout,
    stop: write what failed in today's log, push the log, and do nothing else.
-2. `python tools/taskboard.py next`. If it prints nothing, go to step 8.
+2. If the board shows a task as `doing`, an earlier run stopped half-way: discard any
+   uncommitted changes and set it back to `todo`. Then `python tools/taskboard.py next`.
+   If it prints nothing, go to step 8.
 3. Set the task to `doing` (`python tools/taskboard.py set <id> doing`).
 4. **Delegate.** Start one coder with the Agent tool, `model` set to the brief's tier
    (`haiku` or `sonnet`). Its prompt: read `CLAUDE.md` and the brief at its path, do
