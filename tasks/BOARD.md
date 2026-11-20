@@ -16,7 +16,7 @@ tool exists. Rules are in `tasks/README.md`; the plan is `docs/PROJECT_PLAN.md`.
 | T09 | Annual report manifest | haiku | - | done |
 | T10 | Indonesian name normalisation | sonnet | - | done |
 | T11 | Person merge candidates and review file | sonnet | T10 | done |
-| T12 | Board interlock graph and classification | sonnet | - | todo |
+| T12 | Board interlock graph and classification | sonnet | - | done |
 | T13 | Exchange profile collector for the owner's machine | sonnet | - | todo |
 | T14 | Exchange profile parser | sonnet | U04 | blocked:U04 |
 | T15 | Monitor data layer | sonnet | - | todo |
