@@ -6,5 +6,6 @@ data/raw/ocr_*/
 data/raw/news/
 data/raw/financing/
 data/raw/prices/
+data/raw/idx_profiles/
 data/processed/results_synthetic/
 *.egg-info/
