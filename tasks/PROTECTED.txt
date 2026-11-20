@@ -1,0 +1,25 @@
+# Paths that unattended work must not change. One glob per line (fnmatch on the
+# repo-relative path; ** matches across directories). Changing any of these is a
+# pre-registration amendment, done in an attended session with the owner.
+docs/paper/prereg.md
+data/events/events.csv
+data/mappings/tickers.csv
+data/mappings/board_rosters.csv
+data/seed/**
+data/primary/**
+data/raw/documents.csv
+data/processed/nodes.csv
+data/processed/edges.csv
+data/processed/connection_*
+src/influence/schema.py
+src/influence/graph.py
+src/influence/build_seed_graph.py
+src/influence/validate.py
+src/influence/connections/**
+src/influence/events/**
+tests/test_schema.py
+tests/test_connections.py
+tests/test_eventstudy.py
+tests/test_eventset.py
+tasks/PROTECTED.txt
+CLAUDE.md
