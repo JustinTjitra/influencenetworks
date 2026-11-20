@@ -6,7 +6,7 @@ tool exists. Rules are in `tasks/README.md`; the plan is `docs/PROJECT_PLAN.md`.
 | id | title | tier | depends | status |
 |---|---|---|---|---|
 | T01 | Task board tool | sonnet | - | done |
-| T02 | Guard against protected-file and price-data changes | sonnet | - | todo |
+| T02 | Guard against protected-file and price-data changes | sonnet | - | done |
 | T03 | Continuous integration workflow | haiku | T01 T02 | todo |
 | T04 | Fundamentals file schema and validator | sonnet | - | todo |
 | T05 | Document registry command | sonnet | - | todo |
