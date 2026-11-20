@@ -19,7 +19,7 @@ tool exists. Rules are in `tasks/README.md`; the plan is `docs/PROJECT_PLAN.md`.
 | T12 | Board interlock graph and classification | sonnet | - | done |
 | T13 | Exchange profile collector for the owner's machine | sonnet | - | done |
 | T14 | Exchange profile parser | sonnet | U04 | blocked:U04 |
-| T15 | Monitor data layer | sonnet | - | todo |
+| T15 | Monitor data layer | sonnet | - | done |
 | T16 | Monitor exposure profile tables | sonnet | T15 | todo |
 | T17 | Monitor event timeline table | sonnet | T15 | todo |
 | T18 | Monitor lenders table | sonnet | T15 | todo |
