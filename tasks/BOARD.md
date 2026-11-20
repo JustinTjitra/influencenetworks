@@ -7,7 +7,7 @@ tool exists. Rules are in `tasks/README.md`; the plan is `docs/PROJECT_PLAN.md`.
 |---|---|---|---|---|
 | T01 | Task board tool | sonnet | - | done |
 | T02 | Guard against protected-file and price-data changes | sonnet | - | done |
-| T03 | Continuous integration workflow | haiku | T01 T02 | todo |
+| T03 | Continuous integration workflow | haiku | T01 T02 | done |
 | T04 | Fundamentals file schema and validator | sonnet | - | todo |
 | T05 | Document registry command | sonnet | - | todo |
 | T06 | Board roster CSV templates and validator | sonnet | - | todo |

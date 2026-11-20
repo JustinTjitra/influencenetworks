@@ -1,0 +1,57 @@
+# Tests, board check and guard on every push to main and every pull request
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      # full history so the guard can diff the pushed or pull request range
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Python 3.11 with pip caching
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: pyproject.toml
+
+      # install the package and the dev extras
+      - run: pip install -e ".[dev]"
+
+      # unit tests
+      - run: pytest -q
+
+      # board and briefs are consistent
+      - run: python tools/taskboard.py validate
+
+      # guard on a pushed range; skipped for a new branch (all-zero before)
+      - name: Guard on pushed range
+        if: github.event_name == 'push' && github.event.before != '0000000000000000000000000000000000000000'
+        run: |
+          RANGE="${{ github.event.before }}..${{ github.sha }}"
+          EXTRA=()
+          # an [amendment] commit may touch protected files
+          MSG=$(git log --format=%B "$RANGE")
+          case "$MSG" in *'[amendment]'*) EXTRA=(--allow-protected "amendment commit") ;; esac
+          python tools/guard.py --range "$RANGE" "${EXTRA[@]}"
+
+      # guard on a pull request range against the base branch
+      - name: Guard on pull request range
+        if: github.event_name == 'pull_request'
+        run: |
+          RANGE="origin/${{ github.base_ref }}..${{ github.sha }}"
+          EXTRA=()
+          # an [amendment] commit may touch protected files
+          MSG=$(git log --format=%B "$RANGE")
+          case "$MSG" in *'[amendment]'*) EXTRA=(--allow-protected "amendment commit") ;; esac
+          python tools/guard.py --range "$RANGE" "${EXTRA[@]}"
