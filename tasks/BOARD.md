@@ -13,7 +13,7 @@ tool exists. Rules are in `tasks/README.md`; the plan is `docs/PROJECT_PLAN.md`.
 | T06 | Board roster CSV templates and validator | sonnet | - | done |
 | T07 | Locate roster pages in an annual report | sonnet | - | done |
 | T08 | Roster extraction protocol | haiku | T05 T06 T07 | done |
-| T09 | Annual report manifest | haiku | - | todo |
+| T09 | Annual report manifest | haiku | - | done |
 | T10 | Indonesian name normalisation | sonnet | - | todo |
 | T11 | Person merge candidates and review file | sonnet | T10 | todo |
 | T12 | Board interlock graph and classification | sonnet | - | todo |
