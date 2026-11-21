@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import pytest
 
-from influence.app import data, timeline as tl
+from influence.app import data, sector, timeline as tl
 from influence.events import eventset
 
 DANANTARA = {"ev_danantara_postponed", "ev_danantara_date_announced", "ev_danantara_launch"}
@@ -43,19 +43,59 @@ def test_palm_ticker_has_no_bank_event(bundle, no_results):
     assert "ev_cpo_export_ban" in set(t.event_id)
 
 
-def test_main_test_flag(bundle, no_results):
+def test_event_rule_flag(bundle, no_results):
     t = tl.timeline(bundle, "BBRI", no_results).set_index("event_id")
-    assert t.loc["ev_danantara_date_announced", "main_test"] == "yes"  # signed, flags 0
-    assert t.loc["ev_danantara_launch", "main_test"] == "no"           # confounder_flag 1
-    assert t.loc["ev_kopdes_himbara", "main_test"] == "no"   # sign "ambiguous"
+    assert t.loc["ev_danantara_date_announced", "event_rule"] == "yes"  # signed, flags 0
+    assert t.loc["ev_danantara_launch", "event_rule"] == "no"           # confounder_flag 1
+    assert t.loc["ev_kopdes_himbara", "event_rule"] == "no"   # sign "ambiguous"
 
 
-def test_main_test_flag_matches_eventset_rule(bundle, no_results):
+def test_event_rule_matches_eventset_rule(bundle, no_results):
     t = tl.timeline(bundle, "BBRI", no_results)
-    flagged = set(t[t.main_test == "yes"].event_id)
+    flagged = set(t[t.event_rule == "yes"].event_id)
     expected = set(t.event_id) & set(eventset.main_test_subset(bundle.events).event_id)
     assert flagged == expected
     assert flagged  # not vacuous
+
+
+def test_columns_order_event_rule_before_main_test(bundle, no_results):
+    t = tl.timeline(bundle, "BBRI", no_results)
+    cols = list(t.columns)
+    assert cols.index("main_test") == cols.index("event_rule") + 1
+    assert cols.index("firm_connected") + 1 == cols.index("event_rule")
+
+
+def test_main_test_matches_registered_summary(bundle, no_results):
+    t = tl.timeline(bundle, "BBRI", no_results)
+    summ = pd.read_csv(tl.SUMMARY_PATH).set_index("event_id")["main_test"]
+    yes = set(t[t.main_test == "yes"].event_id)
+    assert yes == {e for e in t.event_id if summ[e] == 1}
+    assert set(t.main_test) <= {"yes", "no"}
+
+
+def test_main_test_implies_event_rule_and_differs_somewhere(bundle, no_results):
+    t = tl.timeline(bundle, "BBRI", no_results)
+    assert (t[t.main_test == "yes"].event_rule == "yes").all()
+    assert ((t.event_rule == "yes") & (t.main_test == "no")).any()
+
+
+def test_main_test_equals_sector_page(bundle, no_results):
+    t = tl.timeline(bundle, "BBRI", no_results).set_index("event_id")
+    page = sector.event_table(bundle, "bank").set_index("event_id")
+    assert len(t) > 0
+    for eid in t.index:
+        assert t.loc[eid, "main_test"] == page.loc[eid, "main_test"], eid
+
+
+def test_event_missing_from_summary_raises_keyerror(bundle, no_results, tmp_path):
+    summ = pd.read_csv(tl.SUMMARY_PATH)
+    full = tl.timeline(bundle, "BBRI", no_results)
+    missing = "ev_danantara_launch"
+    assert missing in set(full.event_id)
+    path = tmp_path / "summary.csv"
+    summ[summ.event_id != missing].to_csv(path, index=False)
+    with pytest.raises(KeyError, match=missing):
+        tl.timeline(bundle, "BBRI", no_results, summary_path=path)
 
 
 def test_no_results_dir_gives_nan_car(bundle, no_results):
