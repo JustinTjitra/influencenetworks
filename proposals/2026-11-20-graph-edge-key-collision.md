@@ -66,3 +66,20 @@ its brief and is not affected. T16 (exposure profile) calls the registered
 
 `src/influence/graph.py`, `data/processed/connection_*`, possibly `tests/test_schema.py`
 or a new graph test, and `docs/paper/prereg.md` for the amendment text.
+
+## Scope, added 2026-11-21 after reading section 4 of the pre-registration closely
+
+The first version of this note said the lost edges could affect `tested_value` for
+events whose tested measure is "all". More exactly:
+
+- The two registered main-test events test `state_own` and `board_office`. Neither uses
+  lending edges. **The registered main test is not affected.**
+- For "all", the 0/1 indicator is 1 if any of the six tie measures is positive.
+  `dist_gov` is not one of the six, so the main (0/1) specification for those events is
+  not affected either.
+- Affected: `dist_gov` itself, `gov_proximity`, the composite (first principal
+  component) and therefore the scaled-value secondary specification for "all" events,
+  and the monitor's "steps to the state" number.
+
+This lowers the stakes but not the case for fixing the key: the graph should hold every
+valid row of the edge file.
