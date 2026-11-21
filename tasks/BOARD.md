@@ -30,7 +30,7 @@ tool exists. Rules are in `tasks/README.md`; the plan is `docs/PROJECT_PLAN.md`.
 | T23 | Paper outline | planner | T22 | done |
 | T24 | Draft of pre-registration amendment 1 | planner | - | done |
 | T25 | Proposed party-status and event rows for amendment 1 | planner | - | done |
-| T26 | Source check of the supplement edges | sonnet | - | todo |
+| T26 | Source check of the supplement edges | sonnet | - | done |
 | T27 | Timeline main-test flag matches the registered summary | sonnet | T17 T20 | todo |
 | U01 | Download 2024 and 2025 annual reports for the 34 firms | owner | T09 | blocked:owner |
 | U02 | Approve amendment 1 in an attended session | owner | U01 T24 T25 | blocked:owner |
