@@ -27,7 +27,7 @@ tool exists. Rules are in `tasks/README.md`; the plan is `docs/PROJECT_PLAN.md`.
 | T20 | Monitor sector page | sonnet | T19 | done |
 | T21 | Neutral-language check | haiku | - | done |
 | T22 | Bibliography from the research notes | haiku | - | done |
-| T23 | Paper outline | planner | T22 | todo |
+| T23 | Paper outline | planner | T22 | done |
 | T24 | Draft of pre-registration amendment 1 | planner | - | todo |
 | T25 | Proposed party-status and event rows for amendment 1 | planner | - | todo |
 | T26 | Source check of the supplement edges | sonnet | - | todo |
